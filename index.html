@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>MeL Map: Wayne State University</title>
+      <link rel="icon" type="image/x-icon" href="images/favicon.svg">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+      <link href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css" rel="stylesheet">
+      <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
+      <script src="https://unpkg.com/deck.gl@8.9.33/dist.min.js"></script>
+      <script src="main.js" defer></script>
+      <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+      <div id="map">
+         <div class="ui ui-left">
+            <button class="ui-min" type="button" aria-pressed="false" title="Minimize panel">–</button>
+            <h3>MeL Map</h3>
+            <div class="field">
+               <label for="datasetSel">Year</label>
+               <select id="datasetSel">
+                  <option value="2025" selected>2025</option>
+                  <option value="2024">2024</option>
+                  <option value="2023">2023</option>
+                  <option value="2022">2022</option>
+                  <option value="2021">2021</option>
+               </select>
+            </div>
+            <div class="field">
+               <label>Months</label>
+               <div id="monthMulti" class="multiselect">
+                  <button id="monthBtn" type="button" aria-haspopup="listbox" aria-expanded="false">Cumulative</button>
+                  <div id="monthPanel" class="panel" role="listbox" aria-multiselectable="true"></div>
+               </div>
+            </div>
+            <div class="radio-row" id="modeRadios" aria-label="Direction mode">
+               <label><input type="radio" name="mode" value="all" checked> All</label>
+               <label><input type="radio" name="mode" value="out"> Loaned</label>
+               <label><input type="radio" name="mode" value="in"> Received</label>
+            </div>
+            <div class="row" style="margin-top:6px;">
+               <button id="reset" class="btn secondary" type="button">Reset</button>
+            </div>
+            <div class="ui-note">
+               <p>MeLCat is an online catalog service that allows patrons of participating libraries to borrow materials - books, movies, music, and more - from all over Michigan and have them delivered to their home library. This interactive map tracks the circulation of materials since 2006 between Wayne State University and its statewide partners.</p>
+               <p>See the <a href="https://guides.lib.wayne.edu/MelMap" target="_blank">accompanying LibGuide</a> for more statistics.</p>
+               <p class="sneakyLink">Created by <a href="https://library.wayne.edu" target="_blank">Wayne State University Libraries</a>.</p>
+               <p class="sneakyLink">Data sourced from the <a href="https://mel.org" target="_blank">Michigan eLibrary</a>.</p>
+               <div class="logos">
+                  <a href="https://library.wayne.edu" target="_blank"><img class="logo-img" src="images/uls_stacked_color.png" alt="Wayne State University Libraries Logo"></a>
+                  <a href="https://mel.org" target="_blank"><img class="logo-img" src="images/Color--logo with name.png" alt="MeL Logo"></a>
+               </div>
+            </div>
+         </div>
+         <div class="ui ui-right">
+            <button class="ui-min" type="button" aria-pressed="false" title="Minimize panel">–</button>
+            <div class="field">
+               <label for="searchCity">Filter locations</label>
+               <input type="search" id="searchCity" placeholder="Search locations..." list="cityList">
+               <datalist id="cityList"></datalist>
+               <div id="chips" class="row" aria-live="polite"></div>
+            </div>
+            <div class="field">
+               <label>Filter by groups</label>
+               <div id="groupMulti" class="multiselect">
+                  <button id="groupBtn" type="button" aria-haspopup="listbox" aria-expanded="false">All groups</button>
+                  <div id="groupPanel" class="panel" role="listbox" aria-multiselectable="true"></div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </body>
+</html>
