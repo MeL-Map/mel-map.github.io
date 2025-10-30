@@ -8,7 +8,8 @@ const DATA_URLS = {
         '2024': 'mapdata/2024.json',
         '2023': 'mapdata/2023.json',
         '2022': 'mapdata/2022.json',
-        '2021': 'mapdata/2021.json'
+        '2021': 'mapdata/2021.json',
+        '2020': 'mapdata/2020.json'
     }
 };
 let PLACES = [];
