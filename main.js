@@ -9,7 +9,8 @@ const DATA_URLS = {
         '2023': 'mapdata/2023.json',
         '2022': 'mapdata/2022.json',
         '2021': 'mapdata/2021.json',
-        '2020': 'mapdata/2020.json'
+        '2020': 'mapdata/2020.json',
+        '20 Years of MeLCat - 2006-2025': 'mapdata/20 Years of MeLCat - 2006-2025.json'
     }
 };
 let PLACES = [];
