@@ -1,0 +1,8042 @@
+[
+  {
+    "origin": "Alma College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Andrews University",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Ann Arbor District Library",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Aquinas College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Baker Colleges",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Baldwin Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Bay County Library System",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Benzie Shores District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Berkley Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Boyne District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Cadillac Wexford Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Calvin University & Seminary",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "16",
+    "month": "January"
+  },
+  {
+    "origin": "Cass District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "52",
+    "month": "January"
+  },
+  {
+    "origin": "Charlevoix Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Chippewa River District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Clarkston Independence District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Clawson Blair Memorial Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Clinton-Macomb Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Community District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Cooley Law School",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Cornerstone University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Dearborn Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Delta College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Delta Township District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "East Lansing Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Eastern Michigan University",
+    "dest": "Wayne State University",
+    "count": "12",
+    "month": "January"
+  },
+  {
+    "origin": "Farmington Community Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Ferndale Area District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Ferris State University",
+    "dest": "Wayne State University",
+    "count": "13",
+    "month": "January"
+  },
+  {
+    "origin": "Finlandia University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Fruitport District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Genesee District Library",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Grace A. Dow Memorial Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Grand Ledge Area District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Grand Rapids Community College",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Grand Rapids Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "65",
+    "month": "January"
+  },
+  {
+    "origin": "Grosse Pointe Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Harbor Springs Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Harper Woods Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Henry Ford College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Herrick District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Highland Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Hillsdale College",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Hillsdale Community Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Hope College",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Howell Carnegie District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Jackson District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Jordan Valley District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Kalamazoo Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Kellogg Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Kendall College of Art and Design",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Kent District Library",
+    "dest": "Wayne State University",
+    "count": "8",
+    "month": "January"
+  },
+  {
+    "origin": "Kettering University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Lake Superior State University",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Lansing Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Lawrence Technological University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Leland Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Lenawee District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Library of Michigan",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Lincoln Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Livonia Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Loutit District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Macomb Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Marshall District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Mason County District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "50",
+    "month": "January"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "14",
+    "month": "January"
+  },
+  {
+    "origin": "Millington Arbela District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Monroe County Library System",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Mott Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "New Buffalo Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Northern Michigan University",
+    "dest": "Wayne State University",
+    "count": "31",
+    "month": "January"
+  },
+  {
+    "origin": "Northwestern Michigan College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Oakland Community College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "21",
+    "month": "January"
+  },
+  {
+    "origin": "Orion Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Otsego County Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Ovid Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Pere Marquette District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Petoskey District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Pinckney Community Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Plymouth District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Portage District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Richland Community Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Rochester Hills Public Library",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Roseville Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "16",
+    "month": "January"
+  },
+  {
+    "origin": "Salem Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Salem-South Lyon District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Saline District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Shelby Area District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Southfield Public Library",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "St. Clair County Library System",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "St. Joseph/Maud Preston Palenske Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Sterling Heights Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Thompson Home Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Traverse Area District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Troy Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "University of Detroit Mercy",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "University of Michigan - Ann Arbor",
+    "dest": "Wayne State University",
+    "count": "36",
+    "month": "January"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "19",
+    "month": "January"
+  },
+  {
+    "origin": "Van Buren District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Warren Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Washtenaw Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne County Community College District",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "West Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "West Iron District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "22",
+    "month": "January"
+  },
+  {
+    "origin": "Westland/William P. Faust Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Ypsilanti District Library",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alanson Area Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Albion College",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Albion District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Allegan District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma College",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alpena County George N. Fletcher Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ann Arbor District Library",
+    "count": "27",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Auburn Hills Public Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bad Axe District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "8",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bellaire Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Benzonia Public Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Big Rapids Community Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "16",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Boyne District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Branch District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brandon Township Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bridgman Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brighton District Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bullard Sanford Memorial Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cadillac Wexford Public Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calumet Public School Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calvin University & Seminary",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "8",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "38",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cass District Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Center Line Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "17",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlevoix Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlotte Community Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cheboygan Area Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chesterfield Township Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "13",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clawson Blair Memorial Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Commerce Township Community Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cornerstone University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cromaine District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Crooked Tree District Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Curtis Township Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Heights Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Public Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Deckerville Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delta College",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delta Township District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "DeWitt District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dexter District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastern Michigan University",
+    "count": "9",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eaton Rapids Area District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eau Claire District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Elk Rapids District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fennville District Library",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferris State University",
+    "count": "13",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Flat River Community Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Forsyth Township Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fowlerville District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Frankenmuth School District",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Frankenmuth Wickson District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Franklin Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fruitport District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Garden City Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Georgetown Township Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Gladwin County District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grace A. Dow Memorial Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Rapids Public Library",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "34",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "21",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harbor Beach Area District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harbor Springs Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hart Area Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Henry Ford College",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Herrick District Library",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Highland Township Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "12",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale Community Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hope College",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hopkins District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Houghton Lake Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howard Miller Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howe Memorial Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Huntington Woods Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Iosco-Arenac District Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ironwood Carnegie Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ishpeming Carnegie Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "14",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalkaska County Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kellogg Community College",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kendall College of Art and Design",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "28",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kettering University",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lake Superior State University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lapeer District Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Leland Township Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Library of Michigan",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lincoln Park Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Litchfield District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Livonia Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Loutit District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mackinaw Area Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manistee County Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marcellus Township Wood Memorial Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan State University",
+    "count": "9",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "12",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Milford Public Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "22",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mott Community College",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Muskegon Area District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Newaygo Area District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Niles District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northville District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Nottawa Township Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "14",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Orion Township Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oscoda County District Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego County Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego District Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oxford Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pentwater Township Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Peter White Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Petoskey District Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pinckney Community Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Plymouth District Library",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pontiac Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "10",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage Lake District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Presque Isle District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Putnam District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ransom Library - Plainwell",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rawson Memorial District Library",
+    "count": "5",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Riverview Veterans Memorial Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "19",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Romeo District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roseville Public Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Royal Oak Public Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Salem-South Lyon District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sandusky District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saranac Clarksville District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saugatuck-Douglas District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sebewaing Township Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Township Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Siena Heights University",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Southfield Public Library",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sparta Carnegie Township Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spring Arbor University",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spring Lake District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair Shores Public Library",
+    "count": "3",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Stair District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sunfield District Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tecumseh District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Oaks Township Public Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Rivers Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "11",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Trenton Veterans Memorial Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "14",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Michigan - Dearborn",
+    "count": "7",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Van Buren District Library",
+    "count": "6",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Vernon District Public Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Vicksburg District Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Walled Lake City Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Waterford Township Public Library",
+    "count": "4",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "8",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Branch District Library",
+    "count": "1",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "8",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Wyandotte Bacon Memorial District Library",
+    "count": "2",
+    "month": "January"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "13",
+    "month": "January"
+  },
+  {
+    "origin": "Alma College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Andrews University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Ann Arbor District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Berrien Springs Community Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "February"
+  },
+  {
+    "origin": "Brighton District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Cadillac Wexford Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Calvin University & Seminary",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "February"
+  },
+  {
+    "origin": "Canton Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "February"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "25",
+    "month": "February"
+  },
+  {
+    "origin": "Chippewa River District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Clinton-Macomb Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Colon Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Cranbrook Educational Community",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Theodore A. Cutler Memorial Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Delta Township District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "East Lansing Public Library",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Eastern Michigan University",
+    "dest": "Wayne State University",
+    "count": "9",
+    "month": "February"
+  },
+  {
+    "origin": "Escanaba Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Farmington Community Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Ferris State University",
+    "dest": "Wayne State University",
+    "count": "8",
+    "month": "February"
+  },
+  {
+    "origin": "Genesee District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Grace A. Dow Memorial Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Grand Ledge Area District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "31",
+    "month": "February"
+  },
+  {
+    "origin": "Hackley Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Harper Woods Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Henry Ford College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Hillsdale College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Holly Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Howell Carnegie District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Iosco-Arenac District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Ishpeming Carnegie Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Jackson District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "J.C. Wheeler Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Jonesville District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Kalamazoo Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Kellogg Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Kent District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Kettering University",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Lake Superior State University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Litchfield District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Macomb Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Mendon Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "25",
+    "month": "February"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "February"
+  },
+  {
+    "origin": "Monroe County Library System",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Mott Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Mount Clemens Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Niles District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Northern Michigan University",
+    "dest": "Wayne State University",
+    "count": "12",
+    "month": "February"
+  },
+  {
+    "origin": "Northville District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Oakland Community College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "8",
+    "month": "February"
+  },
+  {
+    "origin": "Orion Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Pere Marquette District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Petoskey District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Plymouth District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Portage District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Portage Lake District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Public Libraries of Saginaw",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Putnam District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Redford Township District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Rochester Christian University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Rochester Hills Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Roseville Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "9",
+    "month": "February"
+  },
+  {
+    "origin": "Salem-South Lyon District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Saline District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Schoolcraft Community Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Southfield Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Spring Arbor University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Stair District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Sturgis District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Taymouth Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Tecumseh District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Thomas Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Traverse Area District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Troy Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "University of Detroit Mercy",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "University of Michigan - Ann Arbor",
+    "dest": "Wayne State University",
+    "count": "31",
+    "month": "February"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "February"
+  },
+  {
+    "origin": "Warren Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne County Community College District",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "West Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "19",
+    "month": "February"
+  },
+  {
+    "origin": "Westland/William P. Faust Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Ypsilanti District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Albion College",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Allegan District Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma College",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alpena County George N. Fletcher Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ann Arbor District Library",
+    "count": "24",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Aquinas College",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Auburn Hills Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Augusta-Ross Township District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bellaire Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Benzie Shores District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Berkley Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Berrien Springs Community Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Big Rapids Community Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "6",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Boyne District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Branch District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bridgman Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Briggs District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cadillac Wexford Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calvin University & Seminary",
+    "count": "8",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Camden Township Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "26",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Caro Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cedar Springs Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Lake District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "21",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlevoix Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlotte Community Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cheboygan Area Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "14",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clarkston Independence District Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton Township Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Community District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Coopersville Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cranbrook Educational Community",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Crawford County Library System",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cromaine District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Crooked Tree District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Heights Library",
+    "count": "11",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delta Township District Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delton District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "DeWitt District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dickinson County Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dryden Township Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastern Michigan University",
+    "count": "9",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eau Claire District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Elsie Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferndale Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferris State University",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Flat River Community Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Frankenmuth School District",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Garden City Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Gary Byker Memorial Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "13",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Glen Lake Community Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grace A. Dow Memorial Library",
+    "count": "11",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Ledge Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Rapids Public Library",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "18",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grant Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "13",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hackley Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harbor Beach Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harper Woods Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harrison Township Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hart Area Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Herrick District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "12",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale Community Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Homer Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hope College",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Houghton Lake Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howard Miller Public Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "11",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Huntington Woods Public Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Iosco-Arenac District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kendall College of Art and Design",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "26",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kettering University",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lake Superior State University",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lapeer District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lenawee District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Livonia Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Loutit District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "MacDonald Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mackinaw Area Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manistee County Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mayville District Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "McBain Community Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan State University",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "13",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Milan Public Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Milford Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Millington Arbela District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mott Community College",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mount Clemens Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Muskegon Area District Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Niles District Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "10",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northfield Township Area Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northwestern Michigan College",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Novi Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "9",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ogemaw District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ontonagon Township Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Orion Township Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego County Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pathfinder Community Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pere Marquette District Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Peter White Public Library",
+    "count": "6",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Petoskey District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pinckney Community Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Plymouth District Library",
+    "count": "12",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rauchholz Memorial Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Redford Township District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reed City Area District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "River Rapids District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "21",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Romeo District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roscommon Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roseville Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Royal Oak Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ruth Hughes Memorial District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Salem Township Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Area District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Township Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shiawassee District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Southfield Public Library",
+    "count": "12",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spies Public Library",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spring Arbor University",
+    "count": "5",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Charles District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "8",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Joseph/Maud Preston Palenske Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Stair District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sterling Heights Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Suttons Bay-Bingham District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tahquamenon Area School Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tecumseh District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Oaks Township Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Rivers Public Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "14",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "9",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Michigan - Dearborn",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Van Buren District Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Washtenaw Community College",
+    "count": "3",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Waterford Township Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Wayne County Community College District",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Iron District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "7",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Westland/William P. Faust Public Library",
+    "count": "2",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Wyandotte Bacon Memorial District Library",
+    "count": "1",
+    "month": "February"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "4",
+    "month": "February"
+  },
+  {
+    "origin": "Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Canton Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "March"
+  },
+  {
+    "origin": "Clinton-Macomb Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Delta Township District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "East Lansing Public Library",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Eastern Michigan University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Ferris State University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Genesee District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Grace A. Dow Memorial Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "11",
+    "month": "March"
+  },
+  {
+    "origin": "Henika District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Interlochen Center for the Arts",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Lapeer District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Lawrence Technological University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Library of Michigan",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "10",
+    "month": "March"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Northern Michigan University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "March"
+  },
+  {
+    "origin": "Northwestern Michigan College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Oakland Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Plymouth District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Redford Township District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Reed City Area District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Richland Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Southfield Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "St. Joseph/Maud Preston Palenske Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Troy Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "University of Detroit Mercy",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "University of Michigan - Ann Arbor",
+    "dest": "Wayne State University",
+    "count": "14",
+    "month": "March"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Van Buren District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "West Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "March"
+  },
+  {
+    "origin": "Ypsilanti District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Adrian District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Aitkin Memorial District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alcona County Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alpena County George N. Fletcher Library",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ann Arbor District Library",
+    "count": "17",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Auburn Hills Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Barryton Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bellaire Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Belleville Area District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Berrien Springs Community Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Big Rapids Community Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bridgman Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brighton District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cadillac Wexford Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "11",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cass District Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Lake District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlevoix Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cheboygan Area Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clawson Blair Memorial Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Comstock Township Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Coopersville Area District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Crawford County Library System",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Theodore A. Cutler Memorial Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delta Township District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delton District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "DeWitt District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastern Michigan University",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastpointe Memorial Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eaton Rapids Area District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fennville District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferndale Area District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferris State University",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Frankenmuth Wickson District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fraser Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fruitport District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Georgetown Township Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Ledge Area District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "8",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "5",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harrison Township Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Herrick District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Highland Township Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "8",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Homer Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "7",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jordan Valley District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "6",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lansing Community College",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lapeer District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lenawee District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Livonia Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manistee County Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marcellus Township Wood Memorial Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "11",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Niles District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "5",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Novi Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oscoda County District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ovid Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Petoskey District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage Lake District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Putnam District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ransom Library - Plainwell",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rawson Memorial District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Redford Township District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "10",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saranac Clarksville District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Southfield Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spies Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "6",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Joseph/Maud Preston Palenske Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tecumseh District Library",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Rivers Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Detroit Mercy",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Michigan - Dearborn",
+    "count": "3",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Van Buren District Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Vernon District Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Warren Public Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Wayne Public Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Iron District Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Westland/William P. Faust Public Library",
+    "count": "2",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "White Lake Community Library",
+    "count": "1",
+    "month": "March"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "4",
+    "month": "March"
+  },
+  {
+    "origin": "Andrews University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Baldwin Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "18",
+    "month": "September"
+  },
+  {
+    "origin": "Clinton-Macomb Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Cornerstone University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Dearborn Heights Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Delta College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "East Lansing Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Ferris State University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "September"
+  },
+  {
+    "origin": "Genesee District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Grand Rapids Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "10",
+    "month": "September"
+  },
+  {
+    "origin": "Grosse Pointe Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Hope College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Kalkaska County Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Kent District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Kettering University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Kuyper College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Lapeer District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Lawrence Technological University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Mendon Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "14",
+    "month": "September"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "September"
+  },
+  {
+    "origin": "Niles District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Northern Michigan University",
+    "dest": "Wayne State University",
+    "count": "9",
+    "month": "September"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "September"
+  },
+  {
+    "origin": "Oscoda County District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Portage District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Rochester Hills Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "September"
+  },
+  {
+    "origin": "Southfield Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "University of Detroit Mercy",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "September"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "September"
+  },
+  {
+    "origin": "Van Buren District Library",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "West Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "14",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Addison Township Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Albion College",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Allendale Township Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma College",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alpena County George N. Fletcher Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Aquinas College",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Augusta-Ross Township District Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bellaire Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "4",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brighton District Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calvin University & Seminary",
+    "count": "7",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "4",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "15",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cass District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "14",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlotte Community Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cheboygan Area Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Columbia Township Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Commerce Township Community Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Public Library",
+    "count": "4",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dexter District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dickinson County Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dorothy Hull Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dryden Township Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastpointe Memorial Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eaton Rapids Area District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferris State University",
+    "count": "9",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Frankenmuth Wickson District Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fremont Area District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fruitport District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "8",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Georgetown Township Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Gladwin County District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grace A. Dow Memorial Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Rapids Public Library",
+    "count": "5",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "7",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hackley Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hart Area Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "9",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hope College",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "10",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalkaska County Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kellogg Community College",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kendall College of Art and Design",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "26",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Laingsburg Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lake Superior State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lapeer District Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Leland Township Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lincoln Park Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lincoln Township Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Livonia Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lois Wagner Memorial Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Madison Heights Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marcellus Township Wood Memorial Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marshall District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan State University",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Missaukee District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "5",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Niles District Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "7",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Novi Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "4",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Orion Township Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego County Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego District Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oxford Public Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Patmos Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Peter White Public Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Petoskey District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Plymouth District Library",
+    "count": "5",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pontiac Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ransom Library - Plainwell",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Redford Township District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "12",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roseville Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Royal Oak Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Township Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "South Haven Memorial Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "5",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair Shores Public Library",
+    "count": "2",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Suttons Bay-Bingham District Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "5",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Trenton Veterans Memorial Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Michigan - Dearborn",
+    "count": "5",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Van Buren District Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "3",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Westland/William P. Faust Public Library",
+    "count": "1",
+    "month": "September"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "7",
+    "month": "September"
+  },
+  {
+    "origin": "Albion College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Andrews University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Aquinas College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Baldwin Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Bay County Library System",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Calvin University & Seminary",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Canton Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "11",
+    "month": "October"
+  },
+  {
+    "origin": "Dearborn Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "East Lansing Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Eastern Michigan University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Ferris State University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "8",
+    "month": "October"
+  },
+  {
+    "origin": "Grosse Pointe Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Hillsdale College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Hope College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Kalamazoo Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Lake Superior State University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Livonia Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Mason County District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "17",
+    "month": "October"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "October"
+  },
+  {
+    "origin": "Northern Michigan University",
+    "dest": "Wayne State University",
+    "count": "8",
+    "month": "October"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "October"
+  },
+  {
+    "origin": "Rochester Christian University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Royal Oak Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Saline District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "7",
+    "month": "October"
+  },
+  {
+    "origin": "Warren Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "12",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Adrian District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Albion College",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Allendale Township Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma College",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma Public Library",
+    "count": "5",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "6",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ann Arbor District Library",
+    "count": "38",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Auburn Hills Public Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Augusta-Ross Township District Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "8",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bath Township Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "12",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Branch District Library",
+    "count": "7",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brandon Township Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Briggs District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brighton District Library",
+    "count": "9",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calvin University & Seminary",
+    "count": "6",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Camden Township Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "25",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Lake District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "11",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlotte Community Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cheboygan Area Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clawson Blair Memorial Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Coleman Area Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Coloma Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Colon Township Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Community District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cornerstone University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cranbrook Educational Community",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Crawford County Library System",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Croton Township Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Theodore A. Cutler Memorial Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Heights Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "DeWitt District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dickinson County Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastern Michigan University",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferris State University",
+    "count": "9",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Flat Rock Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fowlerville District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Frankenmuth Wickson District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fraser Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Galien Township Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Garden City Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Gary Byker Memorial Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "10",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Glen Lake Community Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grace A. Dow Memorial Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Ledge Area District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Rapids Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "8",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harbor Beach Area District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hart Area Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Henika District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Herrick District Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "11",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hope College",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "5",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ironwood Carnegie Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "10",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "J.C. Wheeler Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "14",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kendall College of Art and Design",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "15",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lake Superior State University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lapeer District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Leland Township Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lenawee District Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lincoln Park Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lincoln Township Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Livonia Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Loutit District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Madison Heights Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manchester District Library",
+    "count": "5",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manistee County Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marshall District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan State University",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mid Michigan College",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Milford Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Millington Arbela District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mount Clemens Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Muskegon Area District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "North Adams Community Memorial Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "North Branch Township Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northfield Township Area Library",
+    "count": "5",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northwestern Michigan College",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Novi Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "7",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego District Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ovid Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oxford Public Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Peter White Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Petoskey District Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Plymouth District Library",
+    "count": "12",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pontiac Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reading Community Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Redford Township District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reynolds Township Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "River Rapids District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "14",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Romeo District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roseville Public Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Royal Oak Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "6",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "8",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sandusky District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Area District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Township Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "South Haven Memorial Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Southfield Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spring Arbor University",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair Shores Public Library",
+    "count": "8",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Joseph/Maud Preston Palenske Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sterling Heights Public Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sturgis District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Suttons Bay-Bingham District Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tamarack District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Taylor Community Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tecumseh District Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "10",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Michigan - Dearborn",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Van Buren District Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Vicksburg District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Warren Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Waterford Township Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "3",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Branch District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "4",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Westland/William P. Faust Public Library",
+    "count": "2",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Wyandotte Bacon Memorial District Library",
+    "count": "1",
+    "month": "October"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "6",
+    "month": "October"
+  },
+  {
+    "origin": "Andrews University",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Big Rapids Community Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Cadillac Wexford Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Canton Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Chippewa River District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Dearborn Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Delta College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Delta Township District Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "East Lansing Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Eastern Michigan University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Ferris State University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Grand Rapids Community College",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Hart Area Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Jackson District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Macomb Community College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "16",
+    "month": "November"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Milan Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Northern Michigan University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Sleeper Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Sterling Heights Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Sturgis District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Van Buren District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "West Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Westland/William P. Faust Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Albion College",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alcona County Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Allegan District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma College",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alpena County George N. Fletcher Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alvah N. Belding Memorial Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ann Arbor District Library",
+    "count": "24",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Augusta-Ross Township District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bad Axe District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "9",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Belleville Area District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Berrien Springs Community Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Big Rapids Community Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Boyne District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Branch District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brandon Township Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brighton District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Buchanan District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cadillac Wexford Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calvin University & Seminary",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "24",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Caro Area District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cass District Library",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cedar Springs Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlevoix Public Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlotte Community Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cheboygan Area Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chesterfield Township Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clarkston Independence District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clawson Blair Memorial Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton Township Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Community District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dearborn Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delta Township District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "DeWitt District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dorothy Hull Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastern Michigan University",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferndale Area District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferris State University",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Flat Rock Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fleschner Memorial Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Franklin Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fruitport District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "11",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Gladwin County District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grace A. Dow Memorial Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Ledge Area District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Rapids Public Library",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "10",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grant Area District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "7",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hackley Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harbor Springs Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Harrison Township Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hastings Public Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Herrick District Library",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Highland Township Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "9",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Holly Township Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Homer Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hope College",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hudson Carnegie District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jonesville District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jordan Valley District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "8",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalkaska County Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "19",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lake Superior State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lapeer District Library",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Leland Township Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Livonia Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Madison Heights Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manistee County Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marcellus Township Wood Memorial Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marshall District Library",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Merrill District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Milan Public Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mott Community College",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "New Buffalo Township Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Niles District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northville District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Novi Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oak Park Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego County Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego District Public Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Patmos Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Paw Paw District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Petoskey District Library",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pinckney Community Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Plymouth District Library",
+    "count": "13",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pontiac Public Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portland District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ransom Library - Plainwell",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rauchholz Memorial Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rawson Memorial District Library",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reading Community Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Redford Township District Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reed City Area District Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reese Unity District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Reynolds Township Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "16",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Romeo District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Royal Oak Public Library",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "11",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saugatuck-Douglas District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Seville Township Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Township Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shiawassee District Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Southfield Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Spring Arbor University",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Springfield Township Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "4",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair Shores Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sterling Heights Public Library",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tahquamenon Area School Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tecumseh District Library",
+    "count": "5",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Rivers Public Library",
+    "count": "1",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "7",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "13",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "University of Michigan - Dearborn",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Waterford Township Public Library",
+    "count": "3",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "2",
+    "month": "November"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "6",
+    "month": "November"
+  },
+  {
+    "origin": "Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Burlington Township Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Canton Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Capital Area District Libraries",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Central Michigan University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Clarkston Independence District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Eastern Michigan University",
+    "dest": "Wayne State University",
+    "count": "4",
+    "month": "December"
+  },
+  {
+    "origin": "Genesee District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Grand Valley State University",
+    "dest": "Wayne State University",
+    "count": "8",
+    "month": "December"
+  },
+  {
+    "origin": "Grosse Pointe Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Hope College",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Kalamazoo Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Loutit District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Mason County District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Michigan State University",
+    "dest": "Wayne State University",
+    "count": "6",
+    "month": "December"
+  },
+  {
+    "origin": "Michigan Technological University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Monroe County Library System",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Oakland University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Rawson Memorial District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Royal Oak Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Ruth Hughes Memorial District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Saginaw Valley State University",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Shiawassee District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Southfield Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Spring Arbor University",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "University of Michigan - Dearborn",
+    "dest": "Wayne State University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Van Buren District Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "West Bloomfield Township Public Library",
+    "dest": "Wayne State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Western Michigan University",
+    "dest": "Wayne State University",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alanson Area Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Allendale Township Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Alma Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Andrews University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Baldwin Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bay County Library System",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Benzie Shores District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Berkley Public Library",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bloomfield Township Public Library",
+    "count": "6",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Boyne District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Brighton District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Buchanan District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Bullard Sanford Memorial Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cadillac Wexford Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Calvin University & Seminary",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Canton Public Library",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Capital Area District Libraries",
+    "count": "19",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Caro Area District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Cass District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Central Michigan University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Charlevoix Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chesterfield Township Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Chippewa River District Library",
+    "count": "5",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clarkston Independence District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Clinton-Macomb Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Commerce Township Community Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Comstock Township Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Delta Township District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "DeWitt District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Dryden Township Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "East Lansing Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Eastern Michigan University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Elk Rapids District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Farmington Community Library",
+    "count": "6",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fennville District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ferndale Area District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Flat Rock Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Fleschner Memorial Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Genesee District Library",
+    "count": "4",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grace A. Dow Memorial Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Ledge Area District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Rapids Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grand Valley State University",
+    "count": "8",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Grosse Pointe Public Library",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hamburg Township Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Herrick District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hillsdale College",
+    "count": "5",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Holly Township Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Hope College",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Howell Carnegie District Library",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Huntington Woods Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ironwood Carnegie Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Jackson District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kalamazoo Public Library",
+    "count": "5",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Kent District Library",
+    "count": "12",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lawrence Technological University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Leland Township Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Lincoln Township Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Manistee County Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Marshall District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mason County District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan State University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Michigan Technological University",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Monroe County Library System",
+    "count": "6",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Mott Community College",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Muskegon Area District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Niles District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Northern Michigan University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Oakland University",
+    "count": "5",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Otsego County Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Paw Paw District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Pere Marquette District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Peter White Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Plymouth District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Portage District Library",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Public Libraries of Saginaw",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rawson Memorial District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Richland Township Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Rochester Hills Public Library",
+    "count": "9",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Romeo District Library",
+    "count": "4",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roscommon Area District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Roseville Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Royal Oak Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saginaw Valley State University",
+    "count": "3",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Salem-South Lyon District Library",
+    "count": "5",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Saline District Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shelby Township Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Shiawassee District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair County Library System",
+    "count": "8",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "St. Clair Shores Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Sterling Heights Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Tecumseh District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Three Rivers Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Traverse Area District Library",
+    "count": "8",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Trenton Veterans Memorial Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Troy Public Library",
+    "count": "6",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Van Buren District Library",
+    "count": "4",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Warren Public Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Bloomfield Township Public Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "West Branch District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Western Michigan University",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "White Lake Community Library",
+    "count": "2",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Wyandotte Bacon Memorial District Library",
+    "count": "1",
+    "month": "December"
+  },
+  {
+    "origin": "Wayne State University",
+    "dest": "Ypsilanti District Library",
+    "count": "2",
+    "month": "December"
+  }
+]
