@@ -4,13 +4,13 @@ if (EMBED) document.documentElement.classList.add('embed');
 const DATA_URLS = {
     locations: 'mapdata/locations.json',
     flows: {
+        '20 Years of MeLCat - 2006-2025': 'mapdata/20 Years of MeLCat - 2006-2025.json',
         '2025': 'mapdata/2025.json',
         '2024': 'mapdata/2024.json',
         '2023': 'mapdata/2023.json',
         '2022': 'mapdata/2022.json',
         '2021': 'mapdata/2021.json',
-        '2020': 'mapdata/2020.json',
-        '20 Years of MeLCat - 2006-2025': 'mapdata/20 Years of MeLCat - 2006-2025.json'
+        '2020': 'mapdata/2020.json'
     }
 };
 let PLACES = [];
@@ -29,7 +29,7 @@ let state = {
     groups: new Set(),
     months: new Set(),
     monthCumulative: true,
-    datasetYear: '2025'
+    datasetYear: '20 Years of MeLCat - 2006-2025'
 };
 
 function lerp(a, b, t) {
@@ -927,3 +927,7 @@ map.on('load', async () => {
     render(0);
     requestAnimationFrame(animate);
 });
+
+function showCredits(){
+	alert('Designed and programmed by Vaughn Haynes\n\nWith support from Theresa Hovey, Maria Nuccilli, and Mike Hawthorne\n\nCode support by Shannon McDermitt\n\nSpecial thanks to Tara Kanon, Megan Dudek, and Sarah Zawacki at MeL')
+}
