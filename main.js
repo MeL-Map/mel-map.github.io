@@ -507,7 +507,7 @@ function filterFlows() {
 }
 
 function colorByUni(uni, alpha = 220) {
-    return uni ? [12, 84, 73, alpha] : [255, 204, 51, alpha];
+    return uni ? [18, 128, 112, alpha] : [255, 204, 51, alpha];
 }
 
 function nonDetroitUni(flow) {
