@@ -118,6 +118,10 @@ body {
 	color: #fff;
 }
 
+.btn.secondary:hover {
+	background: #00274C;
+}
+
 .btn.link {
 	background: transparent;
 	color: #a9c7ff;
