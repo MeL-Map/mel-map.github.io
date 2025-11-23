@@ -1,5 +1,5 @@
 const EMBED = /[?&](embed|embedded)=1/i.test(location.search);
-if (EMBED) document.documentElement.classList.add('embed');
+if(EMBED) document.documentElement.classList.add('embed');
 
 const DATA_URLS = {
     locations: 'mapdata/locations.json',
@@ -58,7 +58,7 @@ function bearingDegScreen(sLon, sLat, tLon, tLat) {
 
 function hashStringToFloat01(s) {
     let h = 2166136261 >>> 0;
-    for (let i = 0; i < s.length; i++) {
+    for(let i = 0; i < s.length; i++) {
         h ^= s.charCodeAt(i);
         h = Math.imul(h, 16777619);
     }
@@ -70,11 +70,11 @@ function flowSeed01(flow) {
 }
 
 function parseGroupsStr(s) {
-    if (!s) return [];
-    if (Array.isArray(s)) return s.map(x => String(x));
-    if (typeof s === 'string') {
+    if(!s) return [];
+    if(Array.isArray(s)) return s.map(x => String(x));
+    if(typeof s === 'string') {
         const t = s.trim();
-        if (t === '[]') return [];
+        if(t === '[]') return [];
         try {
             const arr = JSON.parse(t.replace(/'/g, '"'));
             return Array.isArray(arr) ? arr.map(x => String(x)) : [];
@@ -89,7 +89,7 @@ const STYLE_URL = 'mapbox://styles/wsuflowmap/cmdnb3xow002k01rv5k9w7b14';
 
 function rasterStyleFromStudio(styleUrl, token, size = 256) {
     const m = /^mapbox:\/\/styles\/([^/]+)\/([^/]+)$/.exec(styleUrl);
-    if (!m) throw new Error('Bad style URL: ' + styleUrl);
+    if(!m) throw new Error('Bad style URL: ' + styleUrl);
     const [_, user, styleId] = m;
     const tiles = [
         `https://api.mapbox.com/styles/v1/${user}/${styleId}/tiles/${size}/{z}/{x}/{y}?access_token=${token}`
@@ -153,6 +153,7 @@ map.once('load', () => {
 
 let nodesLayer = null,
     nodesDirty = true;
+let hoveredNodeId = null;
 const datasetSel = document.getElementById('datasetSel');
 const monthMulti = document.getElementById('monthMulti');
 const monthBtn = document.getElementById('monthBtn');
@@ -186,7 +187,7 @@ async function safeFetchJSON(url) {
         const r = await fetch(url, {
             cache: 'no-store'
         });
-        if (!r.ok) return null;
+        if(!r.ok) return null;
         return await r.json();
     } catch (_) {
         return null;
@@ -195,7 +196,7 @@ async function safeFetchJSON(url) {
 async function loadLocations(url = DATA_URLS.locations) {
     const arr = await safeFetchJSON(url);
     let src = arr;
-    if (!src) {
+    if(!src) {
         src = [{
             id: 'Detroit',
             lon: -83.0458,
@@ -235,7 +236,7 @@ async function loadLocations(url = DATA_URLS.locations) {
         uni: (typeof p.uni === 'boolean') ? p.uni : String(p.uni).toUpperCase() === 'TRUE',
         groups: parseGroupsStr(p.groups)
     }));
-    if (!PLACES.some(p => p.id.toLowerCase() === 'detroit')) {
+    if(!PLACES.some(p => p.id.toLowerCase() === 'detroit')) {
         PLACES.push({
             id: 'Detroit',
             lon: -83.0458,
@@ -247,7 +248,7 @@ async function loadLocations(url = DATA_URLS.locations) {
     PLACES = PLACES.map(p => {
         const base = Array.isArray(p.groups) ? [...new Set(p.groups)] : [];
         const uniTag = p.uni ? 'Academic' : 'Public';
-        if (!base.includes(uniTag)) base.push(uniTag);
+        if(!base.includes(uniTag)) base.push(uniTag);
         return {
             ...p,
             groups: base
@@ -261,7 +262,7 @@ async function loadFlows(year) {
     const url = DATA_URLS.flows[String(year)] || `${year}.json`;
     const arr = await safeFetchJSON(url);
     let src = arr;
-    if (!src) {
+    if(!src) {
         src = [{
             origin: 'Detroit',
             dest: 'Ann Arbor',
@@ -318,10 +319,10 @@ function buildMonthsPanel() {
     cumCB.checked = state.monthCumulative;
     cumCB.addEventListener('change', () => {
         state.monthCumulative = cumCB.checked;
-        if (cumCB.checked) {
+        if(cumCB.checked) {
             state.months.clear();
             monthPanel.querySelectorAll('input[type="checkbox"]').forEach(cb => {
-                if (cb !== cumCB) cb.checked = false;
+                if(cb !== cumCB) cb.checked = false;
             });
         }
         updateMonthBtnLabel();
@@ -333,7 +334,7 @@ function buildMonthsPanel() {
     cumSpan.textContent = 'Cumulative';
     cumRow.appendChild(cumSpan);
     monthPanel.appendChild(cumRow);
-    for (const m of months) {
+    for(const m of months) {
         const row = document.createElement('label');
         row.className = 'check';
         const cb = document.createElement('input');
@@ -341,11 +342,11 @@ function buildMonthsPanel() {
         cb.value = m;
         cb.checked = state.months.has(m) && !state.monthCumulative;
         cb.addEventListener('change', () => {
-            if (cumCB.checked) {
+            if(cumCB.checked) {
                 cumCB.checked = false;
                 state.monthCumulative = false;
             }
-            if (cb.checked) state.months.add(m);
+            if(cb.checked) state.months.add(m);
             else state.months.delete(m);
             updateMonthBtnLabel();
             rebuildAggregates();
@@ -363,11 +364,11 @@ function buildMonthsPanel() {
 function setMonthsEnabled(enabled) {}
 
 function updateMonthBtnLabel() {
-    if (state.monthCumulative) {
+    if(state.monthCumulative) {
         monthBtn.textContent = 'Cumulative';
         return;
     }
-    if (state.months.size === 0) {
+    if(state.months.size === 0) {
         monthBtn.textContent = 'Select months…';
         return;
     }
@@ -381,7 +382,7 @@ monthBtn.addEventListener('click', (e) => {
     monthBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
 });
 document.addEventListener('click', (e) => {
-    if (!monthMulti.contains(e.target)) {
+    if(!monthMulti.contains(e.target)) {
         monthMulti.classList.remove('open');
         monthBtn.setAttribute('aria-expanded', 'false');
     }
@@ -392,16 +393,16 @@ function aggregateFlows() {
     const selected = new Set(state.months);
     const key = (o, d) => `${o}__${d}`;
     const acc = new Map();
-    for (const r of RAW_FLOWS) {
-        if (!useAll && selected.size > 0 && !selected.has(r.month)) continue;
+    for(const r of RAW_FLOWS) {
+        if(!useAll && selected.size > 0 && !selected.has(r.month)) continue;
         const k = key(r.origin, r.dest);
         const prev = acc.get(k) || 0;
         acc.set(k, prev + (+r.count || 0));
     }
     const out = [];
-    for (const [k, v] of acc.entries()) {
+    for(const [k, v] of acc.entries()) {
         const [o, d] = k.split('__');
-        if (v > 0) out.push({
+        if(v > 0) out.push({
             source: o,
             target: d,
             count: v
@@ -413,7 +414,7 @@ function aggregateFlows() {
 function addCoords(flow) {
     const s = byId[flow.source.toLowerCase()];
     const t = byId[flow.target.toLowerCase()];
-    if (!s || !t) return null;
+    if(!s || !t) return null;
     return {
         ...flow,
         sourceLon: s.lon,
@@ -429,18 +430,18 @@ function addCoords(flow) {
 
 function computeTotals(flows) {
     const totals = {};
-    for (const p of PLACES) totals[p.id] = {
+    for(const p of PLACES) totals[p.id] = {
         in: 0,
         out: 0,
         total: 0
     };
-    for (const f of flows) {
-        if (!totals[f.source]) totals[f.source] = {
+    for(const f of flows) {
+        if(!totals[f.source]) totals[f.source] = {
             in: 0,
             out: 0,
             total: 0
         };
-        if (!totals[f.target]) totals[f.target] = {
+        if(!totals[f.target]) totals[f.target] = {
             in: 0,
             out: 0,
             total: 0
@@ -448,7 +449,7 @@ function computeTotals(flows) {
         totals[f.source].out += f.count;
         totals[f.target].in += f.count;
     }
-    for (const k in totals) totals[k].total = totals[k].in + totals[k].out;
+    for(const k in totals) totals[k].total = totals[k].in + totals[k].out;
     return totals;
 }
 
@@ -459,12 +460,12 @@ function rebuildAggregates() {
     const counts = FLOWS.map(f => +f.count || 0);
     FLOW_MIN = counts.length ? Math.min(...counts) : 0;
     FLOW_MAX = counts.length ? Math.max(...counts) : 1;
-    if (FLOW_MAX === FLOW_MIN) FLOW_MAX = FLOW_MIN + 1;
+    if(FLOW_MAX === FLOW_MIN) FLOW_MAX = FLOW_MIN + 1;
     let best = HUB_ID,
         bestVal = -1;
-    for (const [id, v] of Object.entries(TOTALS)) {
+    for(const [id, v] of Object.entries(TOTALS)) {
         const tot = v.total || 0;
-        if (tot > bestVal) {
+        if(tot > bestVal) {
             best = id;
             bestVal = tot;
         }
@@ -475,30 +476,30 @@ function rebuildAggregates() {
 }
 
 function filterByMode(f) {
-    if (state.mode === 'out') return f.source === HUB_ID;
-    if (state.mode === 'in') return f.target === HUB_ID;
+    if(state.mode === 'out') return f.source === HUB_ID;
+    if(state.mode === 'in') return f.target === HUB_ID;
     return true;
 }
 
 function filterBySearch(f) {
-    if (state.filters.size === 0) return true;
-    for (const name of state.filters) {
-        if (f.source === name || f.target === name) return true;
+    if(state.filters.size === 0) return true;
+    for(const name of state.filters) {
+        if(f.source === name || f.target === name) return true;
     }
     return false;
 }
 
 function nonDetroitGroups(f) {
-    if (f.source === HUB_ID) return f.targetGroups;
-    if (f.target === HUB_ID) return f.sourceGroups;
+    if(f.source === HUB_ID) return f.targetGroups;
+    if(f.target === HUB_ID) return f.sourceGroups;
     return f.targetGroups?.length ? f.targetGroups : f.sourceGroups;
 }
 
 function filterByGroups(f) {
-    if (state.groups.size === 0) return true;
+    if(state.groups.size === 0) return true;
     const gs = new Set(nonDetroitGroups(f) || []);
-    for (const g of state.groups)
-        if (gs.has(g)) return true;
+    for(const g of state.groups)
+        if(gs.has(g)) return true;
     return false;
 }
 
@@ -511,8 +512,8 @@ function colorByUni(uni, alpha = 220) {
 }
 
 function nonDetroitUni(flow) {
-    if (flow.source === HUB_ID) return flow.targetUni;
-    if (flow.target === HUB_ID) return flow.sourceUni;
+    if(flow.source === HUB_ID) return flow.targetUni;
+    if(flow.target === HUB_ID) return flow.sourceUni;
     return (typeof flow.targetUni === 'boolean') ? flow.targetUni : ((typeof flow.sourceUni === 'boolean') ? flow.sourceUni : true);
 }
 
@@ -580,7 +581,7 @@ function fadeAlphaFor(uRaw, halfFrac, fadeLenFrac) {
 
 function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
     let flows = respectFilters ? filterFlows() : FLOWS_X;
-    if (respectFilters) {
+    if(respectFilters) {
         try {
             const b = map.getBounds();
             flows = flows.filter(f => b.contains([f.sourceLon, f.sourceLat]) || b.contains([f.targetLon, f.targetLat]));
@@ -591,7 +592,7 @@ function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
     const steps = dyn?.steps || TRAIL_STEPS;
     const data = [];
     const fudgeAlpha = !respectFilters;
-    for (const f of flows) {
+    for(const f of flows) {
         const angle = bearingDegScreen(f.sourceLon, f.sourceLat, f.targetLon, f.targetLat);
         const seed = flowSeed01(f);
         const magNorm = clamp01(((+f.count || 0) - FLOW_MIN) / (FLOW_MAX - FLOW_MIN));
@@ -607,10 +608,10 @@ function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
         const segPxEff = stepsEff * stepPxEff;
         const halfFrac = Math.min(0.49, (renderW / 2) / Math.max(1, segPxEff));
         let lastI = -1;
-        for (let j = 0; j < steps; j++) {
+        for(let j = 0; j < steps; j++) {
             const i = Math.floor(j * stepsEff / steps);
             const visible = (i !== lastI);
-            if (!visible) continue;
+            if(!visible) continue;
             lastI = i;
             const phase = (tAdj + i * stepSpacingEff - seed) % 1;
             const uRaw = (phase + 1) % 1;
@@ -669,27 +670,41 @@ function makeLayers(ts = 0, zoom = 6) {
             getAngle: ts
         }
     });
-    if (!nodesLayer || nodesDirty) {
+    if(!nodesLayer || nodesDirty) {
+        const nodesData = PLACES.map(p => ({
+            ...p,
+            totals: TOTALS[p.id]
+        }));
+        const computeRadius = d => 560 + Math.sqrt((d.totals?.total) || 0) * 30;
+        for(const d of nodesData) d._radius = computeRadius(d);
+        nodesData.sort((a, b) => (b._radius - a._radius) || a.id.localeCompare(b.id));
+
         nodesLayer = new deck.ScatterplotLayer({
             id: 'nodes',
-            data: PLACES.map(p => ({
-                ...p,
-                totals: TOTALS[p.id]
-            })),
+            data: nodesData,
             pickable: true,
             radiusUnits: 'meters',
+            parameters: {
+                depthTest: false
+            },
             getPosition: d => [d.lon, d.lat],
-            getRadius: d => 560 + Math.sqrt((d.totals?.total) || 0) * 30,
+            getRadius: d => d._radius,
             stroked: true,
             getLineColor: [30, 30, 30, 220],
             lineWidthMinPixels: 1,
-            getFillColor: [255, 255, 255, 230],
+            getFillColor: d => (hoveredNodeId && d.id === hoveredNodeId) ? [200, 200, 200, 255] : [255, 255, 255, 230],
+            onHover: info => {
+                hoveredNodeId = info.object ? info.object.id : null;
+            },
             onClick: info => {
                 const p = info.object;
-                if (!p) return;
+                if(!p) return;
                 state.filters.add(p.id);
                 renderChips();
                 render();
+            },
+            updateTriggers: {
+                getFillColor: [() => hoveredNodeId]
             }
         });
         nodesDirty = false;
@@ -698,7 +713,7 @@ function makeLayers(ts = 0, zoom = 6) {
 }
 
 function render(ts = 0) {
-    if (!overlay) return;
+    if(!overlay) return;
     const zoom = map.getZoom();
     overlay.setProps({
         layers: makeLayers(ts, zoom),
@@ -706,15 +721,15 @@ function render(ts = 0) {
             layer,
             object
         }) => {
-            if (!object) return null;
-            if (layer && layer.id === 'flows-rects') {
+            if(!object) return null;
+            if(layer && layer.id === 'flows-rects') {
                 const f = object.flow;
                 const other = (f.source === HUB_ID) ? byId[f.target.toLowerCase()] : byId[f.source.toLowerCase()];
                 return other ? {
                     html: nodeTooltipHTML(other)
                 } : null;
             }
-            if (layer && layer.id === 'nodes') {
+            if(layer && layer.id === 'nodes') {
                 return {
                     html: nodeTooltipHTML(object)
                 };
@@ -726,7 +741,7 @@ function render(ts = 0) {
 
 function buildCityList() {
     cityList.innerHTML = '';
-    for (const p of PLACES) {
+    for(const p of PLACES) {
         const opt = document.createElement('option');
         opt.value = p.id;
         cityList.appendChild(opt);
@@ -735,7 +750,7 @@ function buildCityList() {
 
 function renderChips() {
     chipsEl.innerHTML = '';
-    for (const name of state.filters) {
+    for(const name of state.filters) {
         const chip = document.createElement('span');
         chip.className = 'chip';
         chip.textContent = name;
@@ -755,7 +770,7 @@ function renderChips() {
 function addFilterFromValue(val) {
     const key = val.toLowerCase();
     const p = byId[key];
-    if (p) {
+    if(p) {
         state.filters.add(p.id);
         renderChips();
         render();
@@ -766,13 +781,13 @@ function addFilterFromValue(val) {
 
 function handleSearchInput() {
     const v = searchCity.value.trim();
-    if (!v) return;
-    if (addFilterFromValue(v)) searchCity.value = '';
+    if(!v) return;
+    if(addFilterFromValue(v)) searchCity.value = '';
 }
 searchCity.addEventListener('input', handleSearchInput);
 searchCity.addEventListener('change', handleSearchInput);
 searchCity.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') {
+    if(e.key === 'Enter') {
         e.preventDefault();
         handleSearchInput();
     }
@@ -780,7 +795,7 @@ searchCity.addEventListener('keydown', (e) => {
 const ALL_GROUPS = new Set();
 
 function updateGroupBtnLabel() {
-    if (state.groups.size === 0) {
+    if(state.groups.size === 0) {
         groupBtn.textContent = 'All groups';
         return;
     }
@@ -794,14 +809,14 @@ function buildGroupPanel() {
         (p.groups || []).forEach(g => ALL_GROUPS.add(g));
         const uniTag = p.uni ? 'Academic' : 'Public';
         ALL_GROUPS.add(uniTag);
-        if (!(p.groups || []).includes(uniTag)) {
+        if(!(p.groups || []).includes(uniTag)) {
             p.groups = [...(p.groups || []), uniTag];
         }
     });
     const rest = Array.from(ALL_GROUPS).filter(g => g !== 'Academic' && g !== 'Public').sort();
     const arr = ['Academic', 'Public', ...rest];
     groupPanel.innerHTML = '';
-    for (const g of arr) {
+    for(const g of arr) {
         const row = document.createElement('label');
         row.className = 'check';
         const cb = document.createElement('input');
@@ -811,7 +826,7 @@ function buildGroupPanel() {
         cb.setAttribute('role', 'option');
         cb.setAttribute('aria-selected', state.groups.has(g) ? 'true' : 'false');
         cb.addEventListener('change', () => {
-            if (cb.checked) state.groups.add(g);
+            if(cb.checked) state.groups.add(g);
             else state.groups.delete(g);
             updateGroupBtnLabel();
             render();
@@ -847,7 +862,7 @@ groupBtn.addEventListener('click', (e) => {
     groupBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
 });
 document.addEventListener('click', (e) => {
-    if (!groupMulti.contains(e.target)) {
+    if(!groupMulti.contains(e.target)) {
         groupMulti.classList.remove('open');
         groupBtn.setAttribute('aria-expanded', 'false');
     }
@@ -874,7 +889,7 @@ resetBtn.addEventListener('click', () => {
     updateGroupBtnLabel();
     updateMonthBtnLabel();
     const radioAll = document.querySelector('input[name="mode"][value="all"]');
-    if (radioAll) radioAll.checked = true;
+    if(radioAll) radioAll.checked = true;
     map.flyTo({
         center: [-85.4, 44],
         zoom: 6.5,
@@ -928,6 +943,6 @@ map.on('load', async () => {
     requestAnimationFrame(animate);
 });
 
-function showCredits(){
-	alert('Designed and programmed by Vaughn Haynes\n\nWith support from Theresa Hovey, Maria Nuccilli, and Mike Hawthorne\n\nCode support by Shannon McDermitt\n\nSpecial thanks to Tara Kanon, Megan Dudek, and Sarah Zawacki at MeL')
+function showCredits() {
+    alert('Designed and programmed by Vaughn Haynes\n\nWith support from Theresa Hovey, Maria Nuccilli, and Mike Hawthorne\n\nCode support by Shannon McDermitt\n\nSpecial thanks to Tara Kanon, Megan Dudek, and Sarah Zawacki at MeL')
 }
