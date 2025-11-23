@@ -196,39 +196,6 @@ async function safeFetchJSON(url) {
 async function loadLocations(url = DATA_URLS.locations) {
     const arr = await safeFetchJSON(url);
     let src = arr;
-    if(!src) {
-        src = [{
-            id: 'Detroit',
-            lon: -83.0458,
-            lat: 42.3314,
-            uni: true,
-            groups: ['Group 1', 'Group 2', 'Group 3']
-        }, {
-            id: 'Ann Arbor',
-            lon: -83.7430,
-            lat: 42.2808,
-            uni: true,
-            groups: ['Group 2', 'Group 3', 'Group 4']
-        }, {
-            id: 'Lansing',
-            lon: -84.5555,
-            lat: 42.7325,
-            uni: true,
-            groups: ['Group 3', 'Group 4', 'Group 5']
-        }, {
-            id: 'Grand Rapids',
-            lon: -85.6681,
-            lat: 42.9634,
-            uni: false,
-            groups: ['Group 4', 'Group 5', 'Group 1']
-        }, {
-            id: 'Flint',
-            lon: -83.6875,
-            lat: 43.0126,
-            uni: false,
-            groups: ['Group 5', 'Group 1', 'Group 2']
-        }];
-    }
     PLACES = src.map(p => ({
         id: String(p.id),
         lon: +p.lon,
@@ -236,15 +203,6 @@ async function loadLocations(url = DATA_URLS.locations) {
         uni: (typeof p.uni === 'boolean') ? p.uni : String(p.uni).toUpperCase() === 'TRUE',
         groups: parseGroupsStr(p.groups)
     }));
-    if(!PLACES.some(p => p.id.toLowerCase() === 'detroit')) {
-        PLACES.push({
-            id: 'Detroit',
-            lon: -83.0458,
-            lat: 42.3314,
-            uni: true,
-            groups: ['Group 1', 'Group 2', 'Group 3']
-        });
-    }
     PLACES = PLACES.map(p => {
         const base = Array.isArray(p.groups) ? [...new Set(p.groups)] : [];
         const uniTag = p.uni ? 'Academic' : 'Public';
@@ -262,39 +220,6 @@ async function loadFlows(year) {
     const url = DATA_URLS.flows[String(year)] || `${year}.json`;
     const arr = await safeFetchJSON(url);
     let src = arr;
-    if(!src) {
-        src = [{
-            origin: 'Detroit',
-            dest: 'Ann Arbor',
-            month: 'January',
-            count: 5
-        }, {
-            origin: 'Detroit',
-            dest: 'Ann Arbor',
-            month: 'February',
-            count: 10
-        }, {
-            origin: 'Ann Arbor',
-            dest: 'Detroit',
-            month: 'January',
-            count: 15
-        }, {
-            origin: 'Lansing',
-            dest: 'Detroit',
-            month: 'January',
-            count: 20
-        }, {
-            origin: 'Detroit',
-            dest: 'Flint',
-            month: 'January',
-            count: 25
-        }, {
-            origin: 'Flint',
-            dest: 'Detroit',
-            month: 'January',
-            count: 30
-        }];
-    }
     RAW_FLOWS = src.map(r => ({
         origin: String(r.origin),
         dest: String(r.dest),
