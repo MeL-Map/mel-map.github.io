@@ -125,7 +125,7 @@ const map = new mapboxgl.Map({
 });
 map.addControl(new mapboxgl.AttributionControl({
     compact: true,
-    customAttribution: `<a href='https://mapbox.com/about/maps' target ='_blank'>© Mapbox</a> | <a href='https://openstreetmap.org/about/' target ='_blank'>© OpenStreetMap</a> | <a href='https://apps.mapbox.com/feedback' target ='_blank'>Improve this map</a> | <a href='https://mel.org' target ='_blank'>MeL © State of Michigan</a>`
+    customAttribution: `<a href='https://mapbox.com/about/maps' target='_blank'>© Mapbox</a> | <a href='https://openstreetmap.org/about/' target='_blank'>© OpenStreetMap</a> | <a href='https://apps.mapbox.com/feedback' target='_blank'>Improve this map</a> | <a href='https://mel.org' target='_blank'>MeL © State of Michigan</a>`
 }));
 map.addControl(new mapboxgl.NavigationControl({
     visualizePitch: true
