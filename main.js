@@ -201,7 +201,8 @@ async function loadLocations(url = DATA_URLS.locations) {
         lon: +p.lon,
         lat: +p.lat,
         uni: (typeof p.uni === 'boolean') ? p.uni : String(p.uni).toUpperCase() === 'TRUE',
-        groups: parseGroupsStr(p.groups)
+        groups: parseGroupsStr(p.groups),
+        logo: (typeof p.logo === 'string' && p.logo) ? p.logo : null
     }));
     PLACES = PLACES.map(p => {
         const base = Array.isArray(p.groups) ? [...new Set(p.groups)] : [];
@@ -567,7 +568,10 @@ function nodeTooltipHTML(obj) {
         out: 0,
         total: 0
     };
-    return `<div class='tt-title'>${obj.id}</div><div class='tt-stat'>Received: ${t.in.toLocaleString()}</div><div class='tt-stat'>Loaned: ${t.out.toLocaleString()}</div>`;
+    const logo = obj.logo ? `<img class='tt-logo' alt='' src='${obj.logo}'/>` : '';
+    return `<div class='tt-header'>${logo}<div class='tt-title'>${obj.id}</div></div>
+          <div class='tt-stat'>Received: ${t.in.toLocaleString()}</div>
+          <div class='tt-stat'>Loaned: ${t.out.toLocaleString()}</div>`;
 }
 
 function makeLayers(ts = 0, zoom = 6) {
