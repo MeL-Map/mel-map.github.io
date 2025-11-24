@@ -130,7 +130,8 @@
     "lon": "-83.745669",
     "lat": "42.278204",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": "images/logos/aadl.jpg"
   },
   {
     "id": "Aquinas College",
@@ -284,7 +285,7 @@
     "lon": "-84.650962",
     "lat": "46.481898",
     "uni": "TRUE",
-    "groups": "['Superiorland Library Cooperative','Comminuty Colleges']"
+    "groups": "['Superiorland Library Cooperative','Community Colleges']"
   },
   {
     "id": "Beal City Public Schools",
@@ -508,7 +509,8 @@
     "lon": "-84.553925",
     "lat": "42.730169",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": "images/logos/cadl.jpg"
   },
   {
     "id": "Carman-Ainsworth Community Schools",
@@ -564,7 +566,8 @@
     "lon": "-84.763892",
     "lat": "43.590039",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R2']"
+    "groups": "['Michigan Association of State Universities','R2']",
+    "logo": "images/logos/cmu.png"
   },
   {
     "id": "Charlevoix Public Library",
@@ -669,7 +672,8 @@
     "lon": "-83.064246",
     "lat": "42.361326",
     "uni": "TRUE",
-    "groups": "['Detroit Universities & Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Detroit Universities & Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/ccs.jpg"
   },
   {
     "id": "Coloma Public Library",
@@ -844,7 +848,7 @@
     "lon": "-83.977233",
     "lat": "43.552196",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "Delta Township District Library",
@@ -942,7 +946,8 @@
     "lon": "-83.62771",
     "lat": "42.248693",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R2']"
+    "groups": "['Michigan Association of State Universities','R2']",
+    "logo": "images/logos/eastern.png"
   },
   {
     "id": "Eastpointe Memorial Library",
@@ -1054,7 +1059,8 @@
     "lon": "-85.478931",
     "lat": "43.690381",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','GLIAC','Comminuty Colleges']"
+    "groups": "['Michigan Association of State Universities','GLIAC','Community Colleges']",
+    "logo": "images/logos/ferris.png"
   },
   {
     "id": "Finlandia University",
@@ -1243,7 +1249,7 @@
     "lon": "-85.506793",
     "lat": "41.893524",
     "uni": "TRUE",
-    "groups": "['Southwest Michigan Library Cooperative','Comminuty Colleges']"
+    "groups": "['Southwest Michigan Library Cooperative','Community Colleges']"
   },
   {
     "id": "Gloria Coles Flint Public Library",
@@ -1285,7 +1291,7 @@
     "lon": "-85.666229",
     "lat": "42.965805",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Grand Rapids Public Library",
@@ -1299,7 +1305,8 @@
     "lon": "-85.888092",
     "lat": "42.960273",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','GLIAC']"
+    "groups": "['Michigan Association of State Universities','GLIAC']",
+    "logo": "images/logos/grand valley.png"
   },
   {
     "id": "Grant Area District Library",
@@ -1453,7 +1460,7 @@
     "lon": "-83.235565",
     "lat": "42.322296",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "Herrick District Library",
@@ -1635,7 +1642,7 @@
     "lon": "-84.40639",
     "lat": "42.167358",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "Jackson District Library",
@@ -1698,7 +1705,7 @@
     "lon": "-85.6827",
     "lat": "42.230105",
     "uni": "TRUE",
-    "groups": "['Southwest Michigan Library Cooperative','Comminuty Colleges']"
+    "groups": "['Southwest Michigan Library Cooperative','Community Colleges']"
   },
   {
     "id": "Kalkaska County Public Library",
@@ -1712,7 +1719,7 @@
     "lon": "-85.194996",
     "lat": "42.367389",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Kendall College of Art and Design",
@@ -1768,7 +1775,8 @@
     "lon": "-84.358736",
     "lat": "46.492567",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','GLIAC','Comminuty Colleges']"
+    "groups": "['Michigan Association of State Universities','GLIAC','Community Colleges']",
+    "logo": "images/logos/lake superior.png"
   },
   {
     "id": "Lakeland Library Cooperative",
@@ -1796,7 +1804,7 @@
     "lon": "-84.553818",
     "lat": "42.737138",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Lapeer District Library",
@@ -1964,7 +1972,7 @@
     "lon": "-82.958266",
     "lat": "42.617915",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "Macomb County Library",
@@ -2125,21 +2133,23 @@
     "lon": "-84.486735",
     "lat": "42.732827",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities']"
+    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities']",
+    "logo": "images/logos/msu.png"
   },
   {
     "id": "Michigan Technological University",
     "lon": "-88.539277",
     "lat": "47.116404",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities','GLIAC']"
+    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities','GLIAC']",
+    "logo": "images/logos/michtech.png"
   },
   {
     "id": "Mid Michigan College",
     "lon": "-84.767665",
     "lat": "43.968563",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Mid-Michigan Library League",
@@ -2195,7 +2205,7 @@
     "lon": "-85.100212",
     "lat": "43.254009",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Montmorency County Public Library",
@@ -2223,7 +2233,7 @@
     "lon": "-83.672835",
     "lat": "43.018581",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Mount Clemens Public Library",
@@ -2300,14 +2310,15 @@
     "lon": "-84.952968",
     "lat": "45.360569",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Northern Michigan University",
     "lon": "-87.396306",
     "lat": "46.556718",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','GLIAC','Comminuty Colleges']"
+    "groups": "['Michigan Association of State Universities','GLIAC','Community Colleges']",
+    "logo": "images/logos/northern michigan.png"
   },
   {
     "id": "Northfield Township Area Library",
@@ -2335,7 +2346,7 @@
     "lon": "-85.584552",
     "lat": "44.765293",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Northwood University",
@@ -2384,7 +2395,7 @@
     "lon": "-83.228482",
     "lat": "42.643574",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "Oakland County Legal Resources Center",
@@ -3042,7 +3053,7 @@
     "lon": "-82.427936",
     "lat": "42.978189",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "St. Clair County Library System",
@@ -3273,21 +3284,24 @@
     "lon": "-83.7382",
     "lat": "42.276324",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities']"
+    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities']",
+    "logo": "images/logos/uofm.png"
   },
   {
     "id": "University of Michigan - Dearborn",
     "lon": "-83.231309",
     "lat": "42.312973",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R2']"
+    "groups": "['Michigan Association of State Universities','R2']",
+    "logo": "images/logos/uofm.png"
   },
   {
     "id": "University of Michigan Business",
     "lon": "-83.73609",
     "lat": "42.273123",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": "images/logos/uofm.png"
   },
   {
     "id": "Utica Public Library",
@@ -3371,7 +3385,7 @@
     "lon": "-83.663719",
     "lat": "42.263371",
     "uni": "TRUE",
-    "groups": "['Comminuty Colleges']"
+    "groups": "['Community Colleges']"
   },
   {
     "id": "Waterford Township Public Library",
@@ -3399,7 +3413,7 @@
     "lon": "-83.056978",
     "lat": "42.326122",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Comminuty Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']"
   },
   {
     "id": "Wayne County RESA",
@@ -3420,7 +3434,8 @@
     "lon": "-83.070338",
     "lat": "42.356454",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','Transfer Pathways','R1','Oak Ridge Associated Universities','GLIAC','Detroit Universities & Colleges']"
+    "groups": "['Michigan Association of State Universities','Transfer Pathways','R1','Oak Ridge Associated Universities','GLIAC','Detroit Universities & Colleges']",
+    "logo": "images/logos/wayne.png"
   },
   {
     "id": "West Bloomfield Township Public Library",
@@ -3448,7 +3463,8 @@
     "lon": "-85.610501",
     "lat": "42.284895",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R2','Southwest Michigan Library Cooperative','Oak Ridge Associated Universities']"
+    "groups": "['Michigan Association of State Universities','R2','Southwest Michigan Library Cooperative','Oak Ridge Associated Universities']",
+    "logo": "images/logos/wmu.png"
   },
   {
     "id": "Westland/William P. Faust Public Library",

@@ -235,6 +235,21 @@ input[type="search"]::placeholder {
 	color: #cfd8dc;
 }
 
+.deck-tooltip .tt-header {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin-bottom: 4px;
+}
+
+.deck-tooltip .tt-logo {
+	width: 18px;
+	height: 18px;
+	object-fit: contain;
+	border-radius: 3px;
+	background: #fff;
+}
+
 .ui .ui-min {
 	position: absolute;
 	top: 6px;
@@ -331,7 +346,7 @@ input[type="search"]::placeholder {
 	.ui-description,
 	.sneakyLink,
 	.logos {
-	display: none !important;
+		display: none !important;
 	}
 
 	#map {
@@ -405,17 +420,18 @@ html.embed .ui-right {
 }
 
 .logos {
-	text-align:center;
+	text-align: center;
 }
 
 .logo-img {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 50px;
-    width: auto;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 50px;
+	width: auto;
 	padding: 5px;
 }
+
 .logo-img:hover {
 	filter: brightness(70%);
 }
