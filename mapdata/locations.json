@@ -278,7 +278,8 @@
     "lon": "-83.904898",
     "lat": "43.602149",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": "images/logos/bcls.png"
   },
   {
     "id": "Bay Mills Community College",
@@ -502,7 +503,8 @@
     "lon": "-83.486937",
     "lat": "42.299436",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": "images/logos/canton.png"
   },
   {
     "id": "Capital Area District Libraries",
@@ -616,7 +618,8 @@
     "lon": "-84.775264",
     "lat": "43.602635",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": "images/logos/chipriv.png"
   },
   {
     "id": "Clarenceville High School",
@@ -651,7 +654,8 @@
     "lon": "-82.929892",
     "lat": "42.598895",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": "images/logos/climacomb.png"
   },
   {
     "id": "Clio Area High School",
@@ -848,7 +852,8 @@
     "lon": "-83.977233",
     "lat": "43.552196",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/deltacoll.png"
   },
   {
     "id": "Delta Township District Library",
@@ -876,7 +881,8 @@
     "lon": "-83.066978",
     "lat": "42.35847",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": "images/logos/detroit.png"
   },
   {
     "id": "DeWitt District Library",
@@ -939,7 +945,8 @@
     "lon": "-84.482929",
     "lat": "42.743571",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": "images/logos/elpl.jpg"
   },
   {
     "id": "Eastern Michigan University",
@@ -1200,7 +1207,8 @@
     "lon": "-83.760266",
     "lat": "43.045564",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": "images/logos/genesee.jpg"
   },
   {
     "id": "Genesee School District",
@@ -1256,7 +1264,8 @@
     "lon": "-83.679425",
     "lat": "43.021704",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": "images/logos/flint.jpg"
   },
   {
     "id": "Goodland Township Library",
@@ -1298,7 +1307,8 @@
     "lon": "-85.665936",
     "lat": "42.964867",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": "images/logos/grandrapids.png"
   },
   {
     "id": "Grand Valley State University",
@@ -1460,7 +1470,8 @@
     "lon": "-83.235565",
     "lat": "42.322296",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/hfcoll.jpg"
   },
   {
     "id": "Herrick District Library",
@@ -1642,14 +1653,16 @@
     "lon": "-84.40639",
     "lat": "42.167358",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/jacksoncoll.jpg"
   },
   {
     "id": "Jackson District Library",
     "lon": "-84.364339",
     "lat": "42.25571",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": "images/logos/jackson.png"
   },
   {
     "id": "J.C. Wheeler Public Library",
@@ -1733,7 +1746,8 @@
     "lon": "-85.654193",
     "lat": "43.046466",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": "images/logos/kent.png"
   },
   {
     "id": "Kettering University",
@@ -1972,7 +1986,8 @@
     "lon": "-82.958266",
     "lat": "42.617915",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/macombcc.png"
   },
   {
     "id": "Macomb County Library",
@@ -2395,7 +2410,8 @@
     "lon": "-83.228482",
     "lat": "42.643574",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/oaklandcc.png"
   },
   {
     "id": "Oakland County Legal Resources Center",
@@ -2416,7 +2432,8 @@
     "lon": "-83.215733",
     "lat": "42.672673",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R2','Oak Ridge Associated Universities']"
+    "groups": "['Michigan Association of State Universities','R2','Oak Ridge Associated Universities']",
+    "logo": "images/logos/oaklandu.png"
   },
   {
     "id": "Ogemaw District Library",
@@ -2822,7 +2839,8 @@
     "lon": "-83.974178",
     "lat": "43.521971",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','GLIAC']"
+    "groups": "['Michigan Association of State Universities','GLIAC']",
+    "logo": "images/logos/svsu.png"
   },
   {
     "id": "Salem Township Library",
@@ -3018,7 +3036,8 @@
     "lon": "-83.549041",
     "lat": "42.752883",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": "images/logos/spri.png"
   },
   {
     "id": "St. Charles Community Schools",
@@ -3053,14 +3072,16 @@
     "lon": "-82.427936",
     "lat": "42.978189",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/sc4.png"
   },
   {
     "id": "St. Clair County Library System",
     "lon": "-82.421468",
     "lat": "42.978269",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": "images/logos/sccls.jpg"
   },
   {
     "id": "St. Clair Shores Public Library",
@@ -3413,7 +3434,8 @@
     "lon": "-83.056978",
     "lat": "42.326122",
     "uni": "TRUE",
-    "groups": "['Transfer Pathways','Community Colleges']"
+    "groups": "['Transfer Pathways','Community Colleges']",
+    "logo": "images/logos/waynecountycc.jpg"
   },
   {
     "id": "Wayne County RESA",
