@@ -1,131 +1,168 @@
 [
   {
+    "RIDES": "ze005",
     "id": "Adam Cardinal Maida Alumni Library",
     "lon": "-83.377909",
     "lat": "42.570804",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv199",
     "id": "Addison Township Public Library",
     "lon": "-83.147113",
     "lat": "42.821013",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv001",
     "id": "Adrian District Library",
     "lon": "-84.035044",
     "lat": "41.89869",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv084",
     "id": "Aitkin Memorial District Library",
     "lon": "-82.62152",
     "lat": "43.277092",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv003",
     "id": "Alanson Area Public Library",
     "lon": "-84.790338",
     "lat": "45.439743",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zg502",
     "id": "Albion College",
     "lon": "-84.745097",
     "lat": "42.245114",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/Albion.png"
   },
   {
+    "RIDES": "zv504",
     "id": "Albion District Library",
     "lon": "-84.753187",
     "lat": "42.240241",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv150",
     "id": "Alcona County Library",
     "lon": "-83.299921",
     "lat": "44.656797",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv005",
     "id": "Alden District Library",
     "lon": "-85.267495",
     "lat": "44.880506",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv006",
     "id": "Allegan District Library",
     "lon": "-85.852354",
     "lat": "42.527612",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv373",
     "id": "Allen Park Public Library",
     "lon": "-83.218758",
     "lat": "42.249791",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv007",
     "id": "Allendale Township Library",
     "lon": "-85.93927",
     "lat": "42.979522",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zg003",
     "id": "Alma College",
     "lon": "-84.67264",
     "lat": "43.378854",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": ""
   },
   {
+    "RIDES": "zv008",
     "id": "Alma Public Library",
     "lon": "-84.656474",
     "lat": "43.379102",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv009",
     "id": "Almont District Library",
     "lon": "-83.042498",
     "lat": "42.923383",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv010",
     "id": "Alpena County George N. Fletcher Library",
     "lon": "-83.43117",
     "lat": "45.062104",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv026",
     "id": "Alvah N. Belding Memorial Library",
     "lon": "-85.227462",
     "lat": "43.097692",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zf001",
     "id": "Andrews University",
     "lon": "-86.358972",
     "lat": "41.963699",
     "uni": "TRUE",
-    "groups": "['Southwest Michigan Library Cooperative','Council of Independent Colleges']"
+    "groups": "['Southwest Michigan Library Cooperative','Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv512",
     "id": "Ann Arbor District Library",
     "lon": "-83.745669",
     "lat": "42.278204",
@@ -134,146 +171,187 @@
     "logo": "images/logos/aadl.jpg"
   },
   {
+    "RIDES": "zg504",
     "id": "Aquinas College",
     "lon": "-85.627079",
     "lat": "42.960529",
     "uni": "TRUE",
-    "groups": "['Association of Catholic Colleges and Universities','Council of Independent Colleges']"
+    "groups": "['Association of Catholic Colleges and Universities','Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zi001",
     "id": "Arab American National Museum",
     "lon": "-83.176615",
     "lat": "42.32221",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv514",
     "id": "Armada Free Public Library",
     "lon": "-82.882962",
     "lat": "42.841972",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv015",
     "id": "Ashley District Library",
     "lon": "-84.473884",
     "lat": "43.187663",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv016",
     "id": "Athens Community Library",
     "lon": "-85.235459",
     "lat": "42.088291",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv018",
     "id": "Auburn Hills Public Library",
     "lon": "-83.222793",
     "lat": "42.671044",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv019",
     "id": "Augusta-Ross Township District Library",
     "lon": "-85.351952",
     "lat": "42.335339",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv020",
     "id": "Bad Axe District Library",
     "lon": "-82.997266",
     "lat": "43.801995",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zg009",
     "id": "Baker College Auburn Hills",
     "lon": "-83.249374",
     "lat": "42.659828",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg008",
     "id": "Baker College Cass City",
     "lon": "-83.170093",
     "lat": "43.601133",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg006",
     "id": "Baker College Clinton Township",
     "lon": "-82.903548",
     "lat": "42.550978",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg010",
     "id": "Baker College Flint",
     "lon": "-83.696692",
     "lat": "42.975759",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg012",
     "id": "Baker College Muskegon",
     "lon": "-86.19659",
     "lat": "43.243271",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg013",
     "id": "Baker College Owosso",
     "lon": "-84.170629",
     "lat": "42.986867",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg014",
     "id": "Baker College Port Huron",
     "lon": "-82.428237",
     "lat": "42.99645",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zg031",
     "id": "Baker Colleges",
     "lon": "-84.170629",
     "lat": "42.986867",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Mideastern Michigan Library Cooperative','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/BakerCollege.png"
   },
   {
+    "RIDES": "zv537",
     "id": "Baldwin Public Library",
     "lon": "-83.217718",
     "lat": "42.545479",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z0032",
     "id": "Baraga Area Schools",
     "lon": "-88.493072",
     "lat": "46.777295",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv022",
     "id": "Barryton Public Library",
     "lon": "-85.145131",
     "lat": "43.750246",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv396",
     "id": "Bath Township Public Library",
     "lon": "-84.448223",
     "lat": "42.812466",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv024",
     "id": "Bay County Library System",
     "lon": "-83.904898",
     "lat": "43.602149",
@@ -282,223 +360,286 @@
     "logo": "images/logos/bcls.png"
   },
   {
+    "RIDES": "zc003",
     "id": "Bay Mills Community College",
     "lon": "-84.650962",
     "lat": "46.481898",
     "uni": "TRUE",
-    "groups": "['Superiorland Library Cooperative','Community Colleges']"
+    "groups": "['Superiorland Library Cooperative','Community Colleges']",
+    "logo": "images/logos/BayMillsCC.jpg"
   },
   {
+    "RIDES": "z0370",
     "id": "Beal City Public Schools",
     "lon": "-84.908915",
     "lat": "43.67073",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv027",
     "id": "Bellaire Public Library",
     "lon": "-85.209871",
     "lat": "44.97519",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv375",
     "id": "Belleville Area District Library",
     "lon": "-83.490991",
     "lat": "42.207397",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv028",
     "id": "Bellevue Township Library",
     "lon": "-85.017958",
     "lat": "42.445294",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv263",
     "id": "Bentley Memorial Library",
     "lon": "-84.218897",
     "lat": "42.824778",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv029",
     "id": "Benton Harbor Public Library",
     "lon": "-86.453561",
     "lat": "42.1156",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv126",
     "id": "Benzie Shores District Library",
     "lon": "-86.234666",
     "lat": "44.63225",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv030",
     "id": "Benzonia Public Library",
     "lon": "-86.09867",
     "lat": "44.619111",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv031",
     "id": "Berkley Public Library",
     "lon": "-83.184255",
     "lat": "42.501016",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv032",
     "id": "Berrien Springs Community Library",
     "lon": "-86.341328",
     "lat": "41.948691",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv033",
     "id": "Bessemer Public Library",
     "lon": "-90.050218",
     "lat": "46.478435",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv325",
     "id": "Betsie Valley District Library",
     "lon": "-85.943272",
     "lat": "44.519732",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv535",
     "id": "Big Rapids Community Library",
     "lon": "-85.482085",
     "lat": "43.694033",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv038",
     "id": "Bloomfield Township Public Library",
     "lon": "-83.2816",
     "lat": "42.565724",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv039",
     "id": "Boyne District Library",
     "lon": "-85.012837",
     "lat": "45.212006",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv075",
     "id": "Branch District Library",
     "lon": "-85.000203",
     "lat": "41.940175",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv252",
     "id": "Brandon Township Public Library",
     "lon": "-83.448697",
     "lat": "42.848239",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv041",
     "id": "Bridgeport Public Library",
     "lon": "-83.907507",
     "lat": "43.373207",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv042",
     "id": "Bridgman Public Library",
     "lon": "-86.561427",
     "lat": "41.942781",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv298",
     "id": "Briggs District Library",
     "lon": "-84.557947",
     "lat": "43.004294",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv043",
     "id": "Brighton District Library",
     "lon": "-83.791459",
     "lat": "42.540852",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv044",
     "id": "Brown City District Library",
     "lon": "-82.988121",
     "lat": "43.212336",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv045",
     "id": "Buchanan District Library",
     "lon": "-86.360701",
     "lat": "41.827206",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv335",
     "id": "Bullard Sanford Memorial Library",
     "lon": "-83.58806",
     "lat": "43.372452",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv046",
     "id": "Burlington Township Library",
     "lon": "-85.078469",
     "lat": "42.105931",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv048",
     "id": "Burr Oak Township Library",
     "lon": "-85.316912",
     "lat": "41.8458",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv050",
     "id": "Cadillac Wexford Public Library",
     "lon": "-85.399601",
     "lat": "44.246911",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "z8001",
     "id": "Calumet Public School Library",
     "lon": "-88.448867",
     "lat": "47.243153",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative','K-12']"
+    "groups": "['Superiorland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zg515",
     "id": "Calvin University & Seminary",
     "lon": "-85.590564",
     "lat": "42.932794",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": ""
   },
   {
+    "RIDES": "zv051",
     "id": "Camden Township Library",
     "lon": "-84.757421",
     "lat": "41.755204",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv052",
     "id": "Canton Public Library",
     "lon": "-83.486937",
     "lat": "42.299436",
@@ -507,6 +648,7 @@
     "logo": "images/logos/canton.png"
   },
   {
+    "RIDES": "zv194",
     "id": "Capital Area District Libraries",
     "lon": "-84.553925",
     "lat": "42.730169",
@@ -515,55 +657,70 @@
     "logo": "images/logos/cadl.jpg"
   },
   {
+    "RIDES": "z0181",
     "id": "Carman-Ainsworth Community Schools",
     "lon": "-83.751101",
     "lat": "43.00613",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv053",
     "id": "Caro Area District Library",
     "lon": "-83.404909",
     "lat": "43.488872",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv054",
     "id": "Carson City/Crystal Library",
     "lon": "-84.846483",
     "lat": "43.176842",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv056",
     "id": "Cass District Library",
     "lon": "-86.046586",
     "lat": "41.958461",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv057",
     "id": "Cedar Springs Public Library",
     "lon": "-85.55135",
     "lat": "43.226489",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv558",
     "id": "Center Line Public Library",
     "lon": "-83.031611",
     "lat": "42.479391",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv059",
     "id": "Central Lake District Library",
     "lon": "-85.262837",
     "lat": "45.071393",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "za501",
     "id": "Central Michigan University",
     "lon": "-84.763892",
     "lat": "43.590039",
@@ -572,48 +729,61 @@
     "logo": "images/logos/cmu.png"
   },
   {
+    "RIDES": "zv061",
     "id": "Charlevoix Public Library",
     "lon": "-85.26218",
     "lat": "45.316937",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv062",
     "id": "Charlotte Community Library",
     "lon": "-84.837932",
     "lat": "42.561214",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv118",
     "id": "Charter Township of Royal Oak Public Library",
     "lon": "-83.159311",
     "lat": "42.450229",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv064",
     "id": "Cheboygan Area Public Library",
     "lon": "-84.480398",
     "lat": "45.644016",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv065",
     "id": "Chelsea District Library",
     "lon": "-84.019908",
     "lat": "42.316542",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv567",
     "id": "Chesterfield Township Library",
     "lon": "-82.839265",
     "lat": "42.670125",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv234",
     "id": "Chippewa River District Library",
     "lon": "-84.775264",
     "lat": "43.602635",
@@ -622,34 +792,43 @@
     "logo": "images/logos/chipriv.png"
   },
   {
+    "RIDES": "zt310",
     "id": "Clarenceville High School",
     "lon": "-83.337871",
     "lat": "42.435512",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv569",
     "id": "Clarkston Independence District Library",
     "lon": "-83.408807",
     "lat": "42.739611",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv070",
     "id": "Clawson Blair Memorial Library",
     "lon": "-83.14609",
     "lat": "42.536773",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv072",
     "id": "Clinton Township Public Library",
     "lon": "-83.972389",
     "lat": "42.072923",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv573",
     "id": "Clinton-Macomb Public Library",
     "lon": "-82.929892",
     "lat": "42.598895",
@@ -658,20 +837,25 @@
     "logo": "images/logos/climacomb.png"
   },
   {
+    "RIDES": "zt112",
     "id": "Clio Area High School",
     "lon": "-83.707374",
     "lat": "43.170497",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv076",
     "id": "Coleman Area Library",
     "lon": "-84.582397",
     "lat": "43.755076",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zs016",
     "id": "College for Creative Studies",
     "lon": "-83.064246",
     "lat": "42.361326",
@@ -680,174 +864,223 @@
     "logo": "images/logos/ccs.jpg"
   },
   {
+    "RIDES": "zv077",
     "id": "Coloma Public Library",
     "lon": "-86.307343",
     "lat": "42.186286",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv078",
     "id": "Colon Township Library",
     "lon": "-85.325813",
     "lat": "41.957355",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv333",
     "id": "Columbia Township Library",
     "lon": "-83.466169",
     "lat": "43.652813",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv369",
     "id": "Commerce Township Community Library",
     "lon": "-83.47761",
     "lat": "42.589181",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv083",
     "id": "Community District Library",
     "lon": "-84.116076",
     "lat": "42.981742",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv079",
     "id": "Comstock Township Library",
     "lon": "-85.529858",
     "lat": "42.245412",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zf004",
     "id": "Concordia University",
     "lon": "-83.679702",
     "lat": "42.273614",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv081",
     "id": "Constantine Township Library",
     "lon": "-85.669766",
     "lat": "41.841067",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zd002",
     "id": "Cooley Law School",
     "lon": "-84.554611",
     "lat": "42.730825",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv082",
     "id": "Coopersville Area District Library",
     "lon": "-85.936227",
     "lat": "43.065519",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zf005",
     "id": "Cornerstone University",
     "lon": "-85.594371",
     "lat": "42.98127",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zw001",
     "id": "Cranbrook Educational Community",
     "lon": "-83.251655",
     "lat": "42.56753",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv141",
     "id": "Crawford County Library System",
     "lon": "-84.711507",
     "lat": "44.667998",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv153",
     "id": "Cromaine District Library",
     "lon": "-83.754092",
     "lat": "42.658668",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv343",
     "id": "Crooked Tree District Library",
     "lon": "-84.914904",
     "lat": "45.166865",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z2067",
     "id": "Crossroads Charter Academy",
     "lon": "-85.484185",
     "lat": "43.699883",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv387",
     "id": "Croton Township Library",
     "lon": "-85.661009",
     "lat": "43.438101",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv085",
     "id": "Crystal Falls District Community Library",
     "lon": "-88.319255",
     "lat": "46.09684",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv136",
     "id": "Curtis Township Library",
     "lon": "-83.721197",
     "lat": "44.560761",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv300",
     "id": "Theodore A. Cutler Memorial Library",
     "lon": "-84.610565",
     "lat": "43.40526",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv034",
     "id": "Darcy Library of Beulah",
     "lon": "-86.094298",
     "lat": "44.62866",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv370",
     "id": "Dearborn Heights Library",
     "lon": "-83.278288",
     "lat": "42.332036",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv087",
     "id": "Dearborn Public Library",
     "lon": "-83.202686",
     "lat": "42.313153",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv089",
     "id": "Deckerville Public Library",
     "lon": "-82.734892",
     "lat": "43.527881",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc004",
     "id": "Delta College",
     "lon": "-83.977233",
     "lat": "43.552196",
@@ -856,27 +1089,34 @@
     "logo": "images/logos/deltacoll.png"
   },
   {
+    "RIDES": "zv195",
     "id": "Delta Township District Library",
     "lon": "-84.620686",
     "lat": "42.747648",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv090",
     "id": "Delton District Library",
     "lon": "-85.407964",
     "lat": "42.502547",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zi005",
     "id": "Detroit Institute of Arts",
     "lon": "-83.064385",
     "lat": "42.359407",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv091",
     "id": "Detroit Public Library",
     "lon": "-83.066978",
     "lat": "42.35847",
@@ -885,62 +1125,79 @@
     "logo": "images/logos/detroit.png"
   },
   {
+    "RIDES": "zv092",
     "id": "DeWitt District Library",
     "lon": "-84.588584",
     "lat": "42.826353",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv093",
     "id": "Dexter District Library",
     "lon": "-83.889249",
     "lat": "42.340161",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv178",
     "id": "Dickinson County Library",
     "lon": "-88.06365",
     "lat": "45.81935",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv094",
     "id": "Dorothy Hull Library",
     "lon": "-84.65468",
     "lat": "42.646148",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv095",
     "id": "Dorr Township Library",
     "lon": "-85.722452",
     "lat": "42.733374",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv097",
     "id": "Dowagiac District Library",
     "lon": "-86.109907",
     "lat": "41.982821",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv154",
     "id": "Dowling Public Library",
     "lon": "-85.252437",
     "lat": "42.522699",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv098",
     "id": "Dryden Township Library",
     "lon": "-83.128376",
     "lat": "42.945784",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv100",
     "id": "East Lansing Public Library",
     "lon": "-84.482929",
     "lat": "42.743571",
@@ -949,6 +1206,7 @@
     "logo": "images/logos/elpl.jpg"
   },
   {
+    "RIDES": "za502",
     "id": "Eastern Michigan University",
     "lon": "-83.62771",
     "lat": "42.248693",
@@ -957,111 +1215,142 @@
     "logo": "images/logos/eastern.png"
   },
   {
+    "RIDES": "zv601",
     "id": "Eastpointe Memorial Library",
     "lon": "-82.957263",
     "lat": "42.462913",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv102",
     "id": "Eaton Rapids Area District Library",
     "lon": "-84.655975",
     "lat": "42.510996",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv103",
     "id": "Eau Claire District Library",
     "lon": "-86.299451",
     "lat": "41.985496",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv374",
     "id": "Ecorse Public Library",
     "lon": "-83.142637",
     "lat": "42.248333",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv106",
     "id": "Elk Rapids District Library",
     "lon": "-85.416252",
     "lat": "44.89878",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv261",
     "id": "Elk Township Library",
     "lon": "-82.818291",
     "lat": "43.258436",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv107",
     "id": "Elsie Public Library",
     "lon": "-84.388063",
     "lat": "43.08856",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0165",
     "id": "Escanaba Area Schools",
     "lon": "-87.068618",
     "lat": "45.745611",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv109",
     "id": "Escanaba Public Library",
     "lon": "-87.052162",
     "lat": "45.745614",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv110",
     "id": "Evart Public Library",
     "lon": "-85.259317",
     "lat": "43.900645",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv112",
     "id": "Fairgrove District Library",
     "lon": "-83.54348",
     "lat": "43.522278",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv113",
     "id": "Falmouth Area Library",
     "lon": "-85.090409",
     "lat": "44.24374",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv614",
     "id": "Farmington Community Library",
     "lon": "-83.370872",
     "lat": "42.497984",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv116",
     "id": "Fennville District Library",
     "lon": "-86.108105",
     "lat": "42.594636",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv117",
     "id": "Ferndale Area District Library",
     "lon": "-83.132345",
     "lat": "42.460272",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "za503",
     "id": "Ferris State University",
     "lon": "-85.478931",
     "lat": "43.690381",
@@ -1070,139 +1359,178 @@
     "logo": "images/logos/ferris.png"
   },
   {
+    "RIDES": "zf007",
     "id": "Finlandia University",
     "lon": "-88.589034",
     "lat": "47.126374",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv142",
     "id": "Flat River Community Library",
     "lon": "-85.253815",
     "lat": "43.173962",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv120",
     "id": "Flat Rock Public Library",
     "lon": "-83.277797",
     "lat": "42.095049",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv036",
     "id": "Fleschner Memorial Library",
     "lon": "-83.786374",
     "lat": "43.253798",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv144",
     "id": "Forsyth Township Public Library",
     "lon": "-87.438501",
     "lat": "46.279129",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv124",
     "id": "Fowlerville District Library",
     "lon": "-84.073314",
     "lat": "42.660317",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "z0188",
     "id": "Frankenmuth School District",
     "lon": "-83.732862",
     "lat": "43.335664",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv125",
     "id": "Frankenmuth Wickson District Library",
     "lon": "-83.739882",
     "lat": "43.331917",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv127",
     "id": "Franklin Public Library",
     "lon": "-83.306343",
     "lat": "42.526154",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv628",
     "id": "Fraser Public Library",
     "lon": "-82.955466",
     "lat": "42.53863",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv129",
     "id": "Freeport District Library",
     "lon": "-85.316529",
     "lat": "42.763993",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv130",
     "id": "Fremont Area District Library",
     "lon": "-85.942428",
     "lat": "43.466655",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv395",
     "id": "Fruitport District Library",
     "lon": "-86.155786",
     "lat": "43.124253",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv131",
     "id": "Galesburg Charleston Memorial District Library",
     "lon": "-85.411723",
     "lat": "42.288792",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv132",
     "id": "Galien Township Public Library",
     "lon": "-86.499088",
     "lat": "41.805328",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv133",
     "id": "Garden City Public Library",
     "lon": "-83.354265",
     "lat": "42.331867",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zt197",
     "id": "Garden City Public Schools High School",
     "lon": "-83.32424",
     "lat": "42.33347",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z9197",
     "id": "Garden City Public Schools Middle School",
     "lon": "-83.376252",
     "lat": "42.323005",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv171",
     "id": "Gary Byker Memorial Library",
     "lon": "-85.864386",
     "lat": "42.870427",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv122",
     "id": "Genesee District Library",
     "lon": "-83.760266",
     "lat": "43.045564",
@@ -1211,55 +1539,70 @@
     "logo": "images/logos/genesee.jpg"
   },
   {
+    "RIDES": "z0199",
     "id": "Genesee School District",
     "lon": "-83.622019",
     "lat": "43.115005",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv185",
     "id": "Georgetown Township Public Library",
     "lon": "-85.819933",
     "lat": "42.908283",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8018",
     "id": "Gerrish Higgins School District Library",
     "lon": "-84.628462",
     "lat": "44.48783",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z8004",
     "id": "Gladstone School/Public Library",
     "lon": "-87.021125",
     "lat": "45.844314",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative','K-12']"
+    "groups": "['Superiorland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv135",
     "id": "Gladwin County District Library",
     "lon": "-84.470197",
     "lat": "43.982678",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv108",
     "id": "Glen Lake Community Library",
     "lon": "-86.061109",
     "lat": "44.810904",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zc005",
     "id": "Glen Oaks Community College",
     "lon": "-85.506793",
     "lat": "41.893524",
     "uni": "TRUE",
-    "groups": "['Southwest Michigan Library Cooperative','Community Colleges']"
+    "groups": "['Southwest Michigan Library Cooperative','Community Colleges']",
+    "logo": "images/logos/GlenOaksCC.png"
   },
   {
+    "RIDES": "zv121",
     "id": "Gloria Coles Flint Public Library",
     "lon": "-83.679425",
     "lat": "43.021704",
@@ -1268,41 +1611,52 @@
     "logo": "images/logos/flint.jpg"
   },
   {
+    "RIDES": "zv392",
     "id": "Goodland Township Library",
     "lon": "-83.072027",
     "lat": "43.106469",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv225",
     "id": "Grace A. Dow Memorial Library",
     "lon": "-84.248213",
     "lat": "43.625855",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0205",
     "id": "Grand Blanc Community Schools",
     "lon": "-83.627974",
     "lat": "42.920645",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv138",
     "id": "Grand Ledge Area District Library",
     "lon": "-84.745716",
     "lat": "42.753118",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc507",
     "id": "Grand Rapids Community College",
     "lon": "-85.666229",
     "lat": "42.965805",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/GrandRapidsCC.jpg"
   },
   {
+    "RIDES": "zv139",
     "id": "Grand Rapids Public Library",
     "lon": "-85.665936",
     "lat": "42.964867",
@@ -1311,6 +1665,7 @@
     "logo": "images/logos/grandrapids.png"
   },
   {
+    "RIDES": "za504",
     "id": "Grand Valley State University",
     "lon": "-85.888092",
     "lat": "42.960273",
@@ -1319,153 +1674,196 @@
     "logo": "images/logos/grand valley.png"
   },
   {
+    "RIDES": "zv140",
     "id": "Grant Area District Library",
     "lon": "-85.801992",
     "lat": "43.334452",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zg018",
     "id": "Great Lakes Christian College",
     "lon": "-84.637621",
     "lat": "42.75535",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zs012",
     "id": "Great Lakes Talking Books Advisory & Outreach Center",
     "lon": "-87.396338",
     "lat": "46.559322",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv143",
     "id": "Grosse Pointe Public Library",
     "lon": "-82.905281",
     "lat": "42.393711",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv362",
     "id": "George W. Spindler Memorial Library",
     "lon": "-85.133829",
     "lat": "42.728971",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv384",
     "id": "Hackley Public Library",
     "lon": "-86.251444",
     "lat": "43.234129",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv175",
     "id": "Hamburg Township Library",
     "lon": "-83.81802",
     "lat": "42.450982",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv146",
     "id": "Hamtramck Public Library",
     "lon": "-83.063478",
     "lat": "42.398196",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "z8005",
     "id": "Hancock School/Public Library",
     "lon": "-88.584036",
     "lat": "47.1416",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zt254",
     "id": "Hanover Horton MS/HS",
     "lon": "-84.518577",
     "lat": "42.149526",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv147",
     "id": "Harbor Beach Area District Library",
     "lon": "-82.651597",
     "lat": "43.844751",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv388",
     "id": "Harbor Springs Library",
     "lon": "-84.987634",
     "lat": "45.430103",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv648",
     "id": "Harper Woods Public Library",
     "lon": "-82.924206",
     "lat": "42.432631",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv149",
     "id": "Harrison District Library",
     "lon": "-84.802073",
     "lat": "44.020767",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv390",
     "id": "Harrison Township Public Library",
     "lon": "-82.850814",
     "lat": "42.578496",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv151",
     "id": "Hart Area Public Library",
     "lon": "-86.364021",
     "lat": "43.698922",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv152",
     "id": "Hartford Public Library",
     "lon": "-86.163118",
     "lat": "42.206919",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0238",
     "id": "Haslett High School",
     "lon": "-84.406224",
     "lat": "42.739327",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv155",
     "id": "Hastings Public Library",
     "lon": "-85.284978",
     "lat": "42.649052",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv156",
     "id": "Hazel Park District Library",
     "lon": "-83.103323",
     "lat": "42.461704",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv348",
     "id": "Henika District Library",
     "lon": "-85.642928",
     "lat": "42.672903",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc008",
     "id": "Henry Ford College",
     "lon": "-83.235565",
     "lat": "42.322296",
@@ -1474,181 +1872,232 @@
     "logo": "images/logos/hfcoll.jpg"
   },
   {
+    "RIDES": "zv162",
     "id": "Herrick District Library",
     "lon": "-86.108821",
     "lat": "42.786187",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv158",
     "id": "Hesperia Community Library",
     "lon": "-86.039512",
     "lat": "43.567934",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv159",
     "id": "Highland Township Public Library",
     "lon": "-83.609842",
     "lat": "42.643108",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zg519",
     "id": "Hillsdale College",
     "lon": "-84.633075",
     "lat": "41.931583",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges']"
+    "groups": "['Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv161",
     "id": "Hillsdale Community Library",
     "lon": "-84.634193",
     "lat": "41.920132",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv163",
     "id": "Holly Township Library",
     "lon": "-83.627601",
     "lat": "42.804661",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv104 ",
     "id": "Home Township Library",
     "lon": "-85.037524",
     "lat": "43.407915",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv164",
     "id": "Homer Public Library",
     "lon": "-84.807693",
     "lat": "42.1456",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zg520",
     "id": "Hope College",
     "lon": "-86.106611",
     "lat": "42.787719",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges']"
+    "groups": "['Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv165",
     "id": "Hopkins District Library",
     "lon": "-85.762116",
     "lat": "42.623732",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv667",
     "id": "Houghton Lake Public Library",
     "lon": "-84.72778",
     "lat": "44.298435",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0256 ",
     "id": "Houghton-Portage Township Schools",
     "lon": "-88.568675",
     "lat": "47.108149",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv365",
     "id": "Howard Miller Public Library",
     "lon": "-86.014169",
     "lat": "42.812035",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv040",
     "id": "Howe Memorial Library",
     "lon": "-84.47898",
     "lat": "43.407832",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv169",
     "id": "Howell Carnegie District Library",
     "lon": "-83.931956",
     "lat": "42.608687",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv170",
     "id": "Hudson Carnegie District Library",
     "lon": "-84.353604",
     "lat": "41.853606",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv172",
     "id": "Huntington Woods Public Library",
     "lon": "-83.173615",
     "lat": "42.485282",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "z3003",
     "id": "IHM Resource Center",
     "lon": "-83.402079",
     "lat": "41.923012",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv145",
     "id": "Indian River Area Library",
     "lon": "-84.629664",
     "lat": "45.373608",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv376",
     "id": "Inkster Leanna Hicks Public Library",
     "lon": "-83.313346",
     "lat": "42.292073",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zw002",
     "id": "Interlochen Center for the Arts",
     "lon": "-85.768398",
     "lat": "44.629739",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv177",
     "id": "Ionia Community Library",
     "lon": "-85.06217",
     "lat": "42.982997",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv323",
     "id": "Iosco-Arenac District Library",
     "lon": "-83.496509",
     "lat": "44.279721",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv180",
     "id": "Ironwood Carnegie Library",
     "lon": "-90.16789",
     "lat": "46.454741",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv181",
     "id": "Ishpeming Carnegie Public Library",
     "lon": "-87.669381",
     "lat": "46.493925",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc009",
     "id": "Jackson College",
     "lon": "-84.40639",
     "lat": "42.167358",
@@ -1657,6 +2106,7 @@
     "logo": "images/logos/jacksoncoll.jpg"
   },
   {
+    "RIDES": "zv183",
     "id": "Jackson District Library",
     "lon": "-84.364339",
     "lat": "42.25571",
@@ -1665,83 +2115,106 @@
     "logo": "images/logos/jackson.png"
   },
   {
+    "RIDES": "zv219",
     "id": "J.C. Wheeler Public Library",
     "lon": "-85.642037",
     "lat": "42.53584",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z7001",
     "id": "Jeffers High School",
     "lon": "-88.66828",
     "lat": "47.039253",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv186",
     "id": "Jonesville District Library",
     "lon": "-84.661025",
     "lat": "41.983307",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv099",
     "id": "Jordan Valley District Library",
     "lon": "-85.102843",
     "lat": "45.203995",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv367",
     "id": "K.I. Sawyer",
     "lon": "-87.392666",
     "lat": "46.544381",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zg921",
     "id": "Kalamazoo College",
     "lon": "-85.601154",
     "lat": "42.290216",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": ""
   },
   {
+    "RIDES": "zv187",
     "id": "Kalamazoo Public Library",
     "lon": "-85.584549",
     "lat": "42.28963",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc010",
     "id": "Kalamazoo Valley Community College",
     "lon": "-85.6827",
     "lat": "42.230105",
     "uni": "TRUE",
-    "groups": "['Southwest Michigan Library Cooperative','Community Colleges']"
+    "groups": "['Southwest Michigan Library Cooperative','Community Colleges']",
+    "logo": "images/logos/KamazooValleyCC.png"
   },
   {
+    "RIDES": "zv188",
     "id": "Kalkaska County Public Library",
     "lon": "-85.176664",
     "lat": "44.732858",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc011",
     "id": "Kellogg Community College",
     "lon": "-85.194996",
     "lat": "42.367389",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/KelloggCC.jpg"
   },
   {
+    "RIDES": "zg522",
     "id": "Kendall College of Art and Design",
     "lon": "-85.668643",
     "lat": "42.965618",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv080",
     "id": "Kent District Library",
     "lon": "-85.654193",
     "lat": "43.046466",
@@ -1750,41 +2223,52 @@
     "logo": "images/logos/kent.png"
   },
   {
+    "RIDES": "zf008",
     "id": "Kettering University",
     "lon": "-83.714102",
     "lat": "43.013816",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": "images/logos/kettering.png"
   },
   {
+    "RIDES": "zg026",
     "id": "Kuyper College",
     "lon": "-85.592377",
     "lat": "43.022482",
     "uni": "TRUE",
-    "groups": "'National Association of Indepentend Colleges and Universities'"
+    "groups": "'National Association of Indepentend Colleges and Universities'",
+    "logo": ""
   },
   {
+    "RIDES": "zv189",
     "id": "Laingsburg Public Library",
     "lon": "-84.350419",
     "lat": "42.890354",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8008",
     "id": "Lake Linden-Hubbell School/Public Library",
     "lon": "-88.408173",
     "lat": "47.194007",
     "uni": "FALSE",
-    "groups": "['K-12']"
+    "groups": "['K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv191",
     "id": "Lake Odessa Community Library",
     "lon": "-85.138337",
     "lat": "42.782394",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "za005",
     "id": "Lake Superior State University",
     "lon": "-84.358736",
     "lat": "46.492567",
@@ -1793,195 +2277,250 @@
     "logo": "images/logos/lake superior.png"
   },
   {
+    "RIDES": "zx004",
     "id": "Lakeland Library Cooperative",
     "lon": "-85.771582",
     "lat": "43.015409",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zt035",
     "id": "Lakeview High School - Battle Creek",
     "lon": "-85.238098",
     "lat": "42.292679",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z8007",
     "id": "L'Anse Area School/Public Library",
     "lon": "-88.445115",
     "lat": "46.762586",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative','K-12']"
+    "groups": "['Superiorland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zc014",
     "id": "Lansing Community College",
     "lon": "-84.553818",
     "lat": "42.737138",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/LansingCC.jpg"
   },
   {
+    "RIDES": "zv196",
     "id": "Lapeer District Library",
     "lon": "-83.317818",
     "lat": "43.051423",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv071",
     "id": "Lawrence Memorial District Library",
     "lon": "-85.336016",
     "lat": "42.238408",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zf009",
     "id": "Lawrence Technological University",
     "lon": "-83.250954",
     "lat": "42.47305",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv197",
     "id": "Lawton Public Library",
     "lon": "-85.849439",
     "lat": "42.167394",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv247",
     "id": "Leelanau Township Library",
     "lon": "-85.615104",
     "lat": "45.129888",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv230",
     "id": "Leighton Township Library",
     "lon": "-85.663418",
     "lat": "42.743573",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv198",
     "id": "Leland Township Public Library",
     "lon": "-85.76183",
     "lat": "45.022062",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv002",
     "id": "Lenawee District Library",
     "lon": "-84.083627",
     "lat": "41.90534",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z1030",
     "id": "Lenawee ISD",
     "lon": "-84.004471",
     "lat": "41.943367",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv741",
     "id": "Lenox Township Library",
     "lon": "-82.808103",
     "lat": "42.733859",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv200",
     "id": "LeRoy Community Library",
     "lon": "-85.455752",
     "lat": "44.038296",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zk501",
     "id": "Library of Michigan",
     "lon": "-84.563162",
     "lat": "42.73217",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv377",
     "id": "Lincoln Park Public Library",
     "lon": "-83.179824",
     "lat": "42.250565",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv319",
     "id": "Lincoln Township Public Library",
     "lon": "-86.504042",
     "lat": "42.014573",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv202",
     "id": "Litchfield District Library",
     "lon": "-84.714049",
     "lat": "42.043705",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv203",
     "id": "Livonia Public Library",
     "lon": "-83.368067",
     "lat": "42.396288",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv784",
     "id": "Lois Wagner Memorial Library",
     "lon": "-82.762173",
     "lat": "42.808423",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv137",
     "id": "Loutit District Library",
     "lon": "-86.226773",
     "lat": "43.063987",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv205",
     "id": "Luther Area Public Library",
     "lon": "-85.682544",
     "lat": "44.035791",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv242",
     "id": "Lyon Township Public Library",
     "lon": "-83.613639",
     "lat": "42.485881",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv206",
     "id": "Lyons Township District Library",
     "lon": "-84.947292",
     "lat": "42.982109",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv739",
     "id": "MacDonald Public Library",
     "lon": "-82.733868",
     "lat": "42.680006",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv208",
     "id": "Mackinaw Area Public Library",
     "lon": "-84.743134",
     "lat": "45.782527",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc015",
     "id": "Macomb Community College",
     "lon": "-82.958266",
     "lat": "42.617915",
@@ -1990,344 +2529,439 @@
     "logo": "images/logos/macombcc.png"
   },
   {
+    "RIDES": "zv074",
     "id": "Macomb County Library",
     "lon": "-82.956539",
     "lat": "42.627362",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv209",
     "id": "Madison Heights Public Library",
     "lon": "-83.108075",
     "lat": "42.520502",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv210",
     "id": "Mancelona Township Library",
     "lon": "-85.063288",
     "lat": "44.902646",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv211",
     "id": "Manchester District Library",
     "lon": "-84.024089",
     "lat": "42.149947",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv212",
     "id": "Manistee County Library",
     "lon": "-86.323658",
     "lat": "44.246019",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "z8009",
     "id": "Manistique School Public Library",
     "lon": "-86.246984",
     "lat": "45.958483",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative','K-12']"
+    "groups": "['Superiorland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv213",
     "id": "Maple Rapids Public Library",
     "lon": "-84.692184",
     "lat": "43.10129",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv214",
     "id": "Marcellus Township Wood Memorial Library",
     "lon": "-85.812564",
     "lat": "42.027103",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv215",
     "id": "Marion Area District Library",
     "lon": "-85.141655",
     "lat": "44.102321",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv216",
     "id": "Marlette District Library",
     "lon": "-83.080011",
     "lat": "43.325717",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative',]"
+    "groups": "['White Pine Library Cooperative',]",
+    "logo": ""
   },
   {
+    "RIDES": "zt328",
     "id": "Marquette High School",
     "lon": "-87.413424",
     "lat": "46.556614",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv718",
     "id": "Marshall District Library",
     "lon": "-84.959167",
     "lat": "42.271211",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0340",
     "id": "Marshall Public Schools",
     "lon": "-84.958711",
     "lat": "42.27092",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zg023",
     "id": "Marygrove College",
     "lon": "-83.156709",
     "lat": "42.415474",
     "uni": "TRUE",
-    "groups": "['Detroit Universities & Colleges']"
+    "groups": "['Detroit Universities & Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv204",
     "id": "Mason County District Library",
     "lon": "-86.445524",
     "lat": "43.9564",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "z0344",
     "id": "Mattawan School Libraries",
     "lon": "-85.790085",
     "lat": "42.213605",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv220",
     "id": "Mayville District Public Library",
     "lon": "-83.352666",
     "lat": "43.335215",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8010",
     "id": "McBain Community Library",
     "lon": "-85.210243",
     "lat": "44.193961",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League','K-12']"
+    "groups": "['Mid-Michigan Library League','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv378",
     "id": "Melvindale Public Library",
     "lon": "-83.189287",
     "lat": "42.27938",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv222",
     "id": "Mendon Township Library",
     "lon": "-85.454829",
     "lat": "42.00695",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv317",
     "id": "Menominee County Library",
     "lon": "-87.610444",
     "lat": "45.41527",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv224",
     "id": "Merrill District Library",
     "lon": "-84.333896",
     "lat": "43.409969",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "za506",
     "id": "Michigan State University",
     "lon": "-84.486735",
     "lat": "42.732827",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities']",
+    "groups": "['Michigan Association of State Universities','R1','Michigan Research Libraries Triangle (MRLT)','Research Universities for Michigan (RU4M)','Oak Ridge Associated Universities']",
     "logo": "images/logos/msu.png"
   },
   {
+    "RIDES": "za507",
     "id": "Michigan Technological University",
     "lon": "-88.539277",
     "lat": "47.116404",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities','GLIAC']",
+    "groups": "['Michigan Association of State Universities','R1','Research Universities for Michigan (RU4M)','Oak Ridge Associated Universities','GLIAC']",
     "logo": "images/logos/michtech.png"
   },
   {
+    "RIDES": "zc016",
     "id": "Mid Michigan College",
     "lon": "-84.767665",
     "lat": "43.968563",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/MidMichColl.png"
   },
   {
+    "RIDES": "zx005",
     "id": "Mid-Michigan Library League",
     "lon": "-85.400501",
     "lat": "44.251399",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv226",
     "id": "Milan Public Library",
     "lon": "-83.685117",
     "lat": "42.081824",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zt243",
     "id": "Milford High School",
     "lon": "-83.622649",
     "lat": "42.617592",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv227",
     "id": "Milford Public Library",
     "lon": "-83.609145",
     "lat": "42.590129",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv228",
     "id": "Millington Arbela District Library",
     "lon": "-83.526829",
     "lat": "43.27948",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv190",
     "id": "Missaukee District Library",
     "lon": "-85.213529",
     "lat": "44.336739",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv231",
     "id": "Monroe County Library System",
     "lon": "-83.414618",
     "lat": "41.912976",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc018",
     "id": "Montcalm Community College",
     "lon": "-85.100212",
     "lat": "43.254009",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/montcalmCC.png"
   },
   {
+    "RIDES": "zv017",
     "id": "Montmorency County Public Library",
     "lon": "-84.155343",
     "lat": "45.008623",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv201",
     "id": "Moore Public Library",
     "lon": "-82.532142",
     "lat": "43.268487",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv221",
     "id": "Morton Township Library",
     "lon": "-85.229576",
     "lat": "43.619754",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zc019",
     "id": "Mott Community College",
     "lon": "-83.672835",
     "lat": "43.018581",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/MottCC.png"
   },
   {
+    "RIDES": "zv733",
     "id": "Mount Clemens Public Library",
     "lon": "-82.883165",
     "lat": "42.598171",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv235",
     "id": "Mulliken District Library",
     "lon": "-84.895195",
     "lat": "42.762496",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8013",
     "id": "Munising School Public Library",
     "lon": "-86.662947",
     "lat": "46.416763",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative','K-12']"
+    "groups": "['Superiorland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv236",
     "id": "Muskegon Area District Library",
     "lon": "-86.194971",
     "lat": "43.164101",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv237",
     "id": "Negaunee Public Library",
     "lon": "-87.61162",
     "lat": "46.49971",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv240",
     "id": "New Buffalo Township Public Library",
     "lon": "-86.742822",
     "lat": "41.794967",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv243",
     "id": "Newaygo Area District Library",
     "lon": "-85.798672",
     "lat": "43.420419",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv244",
     "id": "Niles District Library",
     "lon": "-86.249889",
     "lat": "41.829262",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv245",
     "id": "North Adams Community Memorial Library",
     "lon": "-84.525359",
     "lat": "41.963892",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv246",
     "id": "North Branch Township Library",
     "lon": "-83.199813",
     "lat": "43.229118",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc021",
     "id": "North Central Michigan College",
     "lon": "-84.952968",
     "lat": "45.360569",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": "images/logos/northCentralMichColl.png"
   },
   {
+    "RIDES": "za008",
     "id": "Northern Michigan University",
     "lon": "-87.396306",
     "lat": "46.556718",
@@ -2336,76 +2970,97 @@
     "logo": "images/logos/northern michigan.png"
   },
   {
+    "RIDES": "zv359",
     "id": "Northfield Township Area Library",
     "lon": "-83.764632",
     "lat": "42.422405",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zx008",
     "id": "Northland Library Cooperative",
     "lon": "-85.26218",
     "lat": "45.316937",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv248",
     "id": "Northville District Library",
     "lon": "-83.485457",
     "lat": "42.430238",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zc022",
     "id": "Northwestern Michigan College",
     "lon": "-85.584552",
     "lat": "44.765293",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zf011",
     "id": "Northwood University",
     "lon": "-84.276035",
     "lat": "43.630086",
     "uni": "TRUE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z3004",
     "id": "Notre Dame Prep Marist Academy",
     "lon": "-83.258081",
     "lat": "42.672988",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv060",
     "id": "Nottawa Township Library",
     "lon": "-85.512045",
     "lat": "41.922489",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zt396",
     "id": "Novi High School",
     "lon": "-83.48936",
     "lat": "42.464572",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv249",
     "id": "Novi Public Library",
     "lon": "-83.491852",
     "lat": "42.465409",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv250",
     "id": "Oak Park Public Library",
     "lon": "-83.187478",
     "lat": "42.467077",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zc023",
     "id": "Oakland Community College",
     "lon": "-83.228482",
     "lat": "42.643574",
@@ -2414,20 +3069,25 @@
     "logo": "images/logos/oaklandcc.png"
   },
   {
+    "RIDES": "zv270",
     "id": "Oakland County Legal Resources Center",
     "lon": "-83.321119",
     "lat": "42.654035",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z1044",
     "id": "Oakland Schools",
     "lon": "-83.331669",
     "lat": "42.650497",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "za009",
     "id": "Oakland University",
     "lon": "-83.215733",
     "lat": "42.672673",
@@ -2436,405 +3096,520 @@
     "logo": "images/logos/oaklandu.png"
   },
   {
+    "RIDES": "zv289",
     "id": "Ogemaw District Library",
     "lon": "-84.121576",
     "lat": "44.421381",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "N/A",
     "id": "Ojibwa Community Library",
     "lon": "-88.490733",
     "lat": "46.776255",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv251",
     "id": "Ontonagon Township Library",
     "lon": "-89.313866",
     "lat": "46.869984",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8006",
     "id": "Jacquelin E. Opperman Memorial Library",
     "lon": "-83.193847",
     "lat": "43.412695",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative','K-12']"
+    "groups": "['White Pine Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv692",
     "id": "Orion Township Public Library",
     "lon": "-83.281759",
     "lat": "42.771209",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv229",
     "id": "Oscoda County District Library",
     "lon": "-84.134689",
     "lat": "44.653038",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv134",
     "id": "Otsego County Library",
     "lon": "-84.677668",
     "lat": "45.005627",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv253",
     "id": "Otsego District Public Library",
     "lon": "-85.691585",
     "lat": "42.452829",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv254",
     "id": "Ovid Public Library",
     "lon": "-84.371549",
     "lat": "43.006659",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0162",
     "id": "Ovid-Elsie Area Schools",
     "lon": "-84.387134",
     "lat": "43.045319",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv256",
     "id": "Oxford Public Library",
     "lon": "-83.26951",
     "lat": "42.816808",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv259",
     "id": "Parchment Community Library",
     "lon": "-85.57024",
     "lat": "42.324903",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv021",
     "id": "Pathfinder Community Library",
     "lon": "-85.851404",
     "lat": "43.863359",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv184",
     "id": "Patmos Library",
     "lon": "-85.846029",
     "lat": "42.824446",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv260",
     "id": "Paw Paw District Library",
     "lon": "-85.905131",
     "lat": "42.216429",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv262",
     "id": "Pentwater Township Library",
     "lon": "-86.421591",
     "lat": "43.783357",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv068",
     "id": "Pere Marquette District Library",
     "lon": "-84.766359",
     "lat": "43.818639",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv217",
     "id": "Peter White Public Library",
     "lon": "-87.392666",
     "lat": "46.544381",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv264",
     "id": "Petoskey District Library",
     "lon": "-84.952618",
     "lat": "45.373651",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv265",
     "id": "Pigeon District Library",
     "lon": "-83.271057",
     "lat": "43.828294",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv266",
     "id": "Pinckney Community Public Library",
     "lon": "-83.946122",
     "lat": "42.458364",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv267",
     "id": "Pittsford Public Library",
     "lon": "-84.470089",
     "lat": "41.858696",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv269",
     "id": "Plymouth District Library",
     "lon": "-83.467383",
     "lat": "42.371652",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv271",
     "id": "Pontiac Public Library",
     "lon": "-83.288906",
     "lat": "42.636809",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv272",
     "id": "Port Austin Township Library",
     "lon": "-82.991874",
     "lat": "44.045484",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv275",
     "id": "Portage District Library",
     "lon": "-85.58869",
     "lat": "42.203345",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv166",
     "id": "Portage Lake District Library",
     "lon": "-88.568263",
     "lat": "47.12208",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv276",
     "id": "Portland District Library",
     "lon": "-84.905356",
     "lat": "42.867465",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zu298",
     "id": "Post Oak Magnet School",
     "lon": "-84.515712",
     "lat": "42.758335",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv277",
     "id": "Potterville-Benton Township District Library",
     "lon": "-84.740763",
     "lat": "42.63031",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv288",
     "id": "Presque Isle District Library",
     "lon": "-83.814823",
     "lat": "45.419855",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv292",
     "id": "Public Libraries of Saginaw",
     "lon": "-83.923907",
     "lat": "43.481501",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv238",
     "id": "Putnam District Library",
     "lon": "-85.093827",
     "lat": "42.605805",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv268",
     "id": "Ransom Library - Plainwell",
     "lon": "-85.634942",
     "lat": "42.441949",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv157",
     "id": "Rauchholz Memorial Library",
     "lon": "-84.229674",
     "lat": "43.423955",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv055",
     "id": "Rawson Memorial District Library",
     "lon": "-83.174952",
     "lat": "43.599983",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv872",
     "id": "Ray Township Public Library",
     "lon": "-82.928628",
     "lat": "42.769505",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv278",
     "id": "Reading Community Library",
     "lon": "-85.23884",
     "lat": "41.999824",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv279",
     "id": "Redford Township District Library",
     "lon": "-83.290464",
     "lat": "42.414293",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv280",
     "id": "Reed City Area District Library",
     "lon": "-85.510047",
     "lat": "43.865902",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv281",
     "id": "Reese Unity District Library",
     "lon": "-83.696564",
     "lat": "43.448812",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv168",
     "id": "Reynolds Township Library",
     "lon": "-85.469482",
     "lat": "43.39817",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv296",
     "id": "Richfield Township Public Library",
     "lon": "-84.410374",
     "lat": "44.355981",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv283",
     "id": "Richland Community Library",
     "lon": "-85.455643",
     "lat": "42.376897",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv338",
     "id": "Richland Township Library",
     "lon": "-84.908533",
     "lat": "43.399145",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv066",
     "id": "River Rapids District Library",
     "lon": "-84.114003",
     "lat": "43.183881",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv379",
     "id": "River Rouge Public Library",
     "lon": "-83.133487",
     "lat": "42.272209",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv286",
     "id": "Riverview Veterans Memorial Library",
     "lon": "-83.196048",
     "lat": "42.171855",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zg027",
     "id": "Rochester Christian University",
     "lon": "-83.148685",
     "lat": "42.666184",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges']"
+    "groups": "['Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv787",
     "id": "Rochester Hills Public Library",
     "lon": "-83.130438",
     "lat": "42.683778",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv845",
     "id": "Romeo District Library",
     "lon": "-83.016856",
     "lat": "42.777464",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv380",
     "id": "Romulus Public Library",
     "lon": "-83.383926",
     "lat": "42.221655",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv386",
     "id": "Roscommon Area District Library",
     "lon": "-84.596828",
     "lat": "44.48911",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv790",
     "id": "Roseville Public Library",
     "lon": "-82.927491",
     "lat": "42.515767",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv291",
     "id": "Royal Oak Public Library",
     "lon": "-83.3863",
     "lat": "42.660091",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv174",
     "id": "Ruth Hughes Memorial District Library",
     "lon": "-83.077618",
     "lat": "43.025734",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zr001",
     "id": "Saginaw Chippewa Tribal Library",
     "lon": "-84.729134",
     "lat": "43.611666",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "za010",
     "id": "Saginaw Valley State University",
     "lon": "-83.974178",
     "lat": "43.521971",
@@ -2843,195 +3618,250 @@
     "logo": "images/logos/svsu.png"
   },
   {
+    "RIDES": "zv047",
     "id": "Salem Township Library",
     "lon": "-85.840372",
     "lat": "42.731193",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv312",
     "id": "Salem-South Lyon District Library",
     "lon": "-83.647241",
     "lat": "42.429356",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv801",
     "id": "Saline District Library",
     "lon": "-83.775415",
     "lat": "42.177855",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv302",
     "id": "Sandusky District Library",
     "lon": "-82.829301",
     "lat": "43.421472",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv274",
     "id": "Sanilac District Library",
     "lon": "-82.546751",
     "lat": "43.430662",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv303",
     "id": "Saranac Clarksville District Library",
     "lon": "-85.213381",
     "lat": "42.929931",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv096",
     "id": "Saugatuck-Douglas District Library",
     "lon": "-86.198939",
     "lat": "42.64394",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zt477",
     "id": "Sault Area Schools",
     "lon": "-84.339567",
     "lat": "46.48067",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv305",
     "id": "Schoolcraft Community Library",
     "lon": "-85.639531",
     "lat": "42.116473",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv385",
     "id": "Schultz-Holmes District Library",
     "lon": "-83.864345",
     "lat": "41.828859",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv306",
     "id": "Sebewaing Township Library",
     "lon": "-83.451469",
     "lat": "43.732755",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv285",
     "id": "Seville Township Library",
     "lon": "-84.835973",
     "lat": "43.360548",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv307",
     "id": "Shelby Area District Library",
     "lon": "-86.362521",
     "lat": "43.611222",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv808",
     "id": "Shelby Township Library",
     "lon": "-83.034191",
     "lat": "42.681276",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0482",
     "id": "Shepherd Public Schools",
     "lon": "-84.687456",
     "lat": "43.522088",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv389",
     "id": "Sherman Township Library",
     "lon": "-84.978176",
     "lat": "43.687695",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv255",
     "id": "Shiawassee District Library",
     "lon": "-84.176813",
     "lat": "42.997687",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zf012",
     "id": "Siena Heights University",
     "lon": "-84.017438",
     "lat": "41.905046",
     "uni": "TRUE",
-    "groups": "['Association of Catholic Colleges and Universities','Council of Independent Colleges']"
+    "groups": "['Association of Catholic Colleges and Universities','Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv332",
     "id": "Sleeper Public Library",
     "lon": "-82.930213",
     "lat": "43.710016",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv309",
     "id": "Sodus Township Library",
     "lon": "-86.366591",
     "lat": "42.043317",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv311",
     "id": "South Haven Memorial Library",
     "lon": "-86.271207",
     "lat": "42.402971",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv313",
     "id": "Southfield Public Library",
     "lon": "-83.240014",
     "lat": "42.482751",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv381",
     "id": "Southgate Veterans Memorial Library",
     "lon": "-83.206748",
     "lat": "42.202915",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv314",
     "id": "Sparta Carnegie Township Library",
     "lon": "-85.706621",
     "lat": "43.161987",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv223",
     "id": "Spies Public Library",
     "lon": "-87.604616",
     "lat": "45.106977",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zf513",
     "id": "Spring Arbor University",
     "lon": "-84.553994",
     "lat": "42.20534",
     "uni": "TRUE",
-    "groups": "['Council of Independent Colleges']"
+    "groups": "['Council of Independent Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv315",
     "id": "Spring Lake District Library",
     "lon": "-86.195508",
     "lat": "43.075777",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv086",
     "id": "Springfield Township Library",
     "lon": "-83.549041",
     "lat": "42.752883",
@@ -3040,34 +3870,43 @@
     "logo": "images/logos/spri.png"
   },
   {
+    "RIDES": "z0492",
     "id": "St. Charles Community Schools",
     "lon": "-84.154258",
     "lat": "43.299241",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zt498",
     "id": "St. Johns High School",
     "lon": "-84.565083",
     "lat": "42.992871",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z9498",
     "id": "St. Johns Middle School",
     "lon": "-84.560659",
     "lat": "42.987066",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv294",
     "id": "St. Charles District Library",
     "lon": "-84.140244",
     "lat": "43.296652",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc026",
     "id": "St. Clair County Community College",
     "lon": "-82.427936",
     "lat": "42.978189",
@@ -3076,6 +3915,7 @@
     "logo": "images/logos/sc4.png"
   },
   {
+    "RIDES": "zv273",
     "id": "St. Clair County Library System",
     "lon": "-82.421468",
     "lat": "42.978269",
@@ -3084,231 +3924,295 @@
     "logo": "images/logos/sccls.jpg"
   },
   {
+    "RIDES": "zv795",
     "id": "St. Clair Shores Public Library",
     "lon": "-82.887908",
     "lat": "42.496157",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv297",
     "id": "St. Ignace Public Library",
     "lon": "-84.717088",
     "lat": "45.860675",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv299",
     "id": "St. Joseph/Maud Preston Palenske Library",
     "lon": "-86.48483",
     "lat": "42.107503",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv232",
     "id": "Stair District Library",
     "lon": "-84.21809",
     "lat": "41.71965",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv818",
     "id": "Sterling Heights Public Library",
     "lon": "-83.012529",
     "lat": "42.590277",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv320",
     "id": "Sturgis District Library",
     "lon": "-85.478265",
     "lat": "41.842913",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative','Woodlands Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative','Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zx010",
     "id": "Suburban Library Cooperative",
     "lon": "-83.006642",
     "lat": "42.624814",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv321",
     "id": "Sunfield District Library",
     "lon": "-84.994673",
     "lat": "42.762752",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0156",
     "id": "Superior Central Public Schools",
     "lon": "-86.971975",
     "lat": "46.354971",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv400",
     "id": "Superior District Library",
     "lon": "-84.3487",
     "lat": "46.495425",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zx001",
     "id": "Superiorland Library Cooperative",
     "lon": "-87.396338",
     "lat": "46.559322",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv115",
     "id": "Surrey Township Public Library",
     "lon": "-84.866294",
     "lat": "43.836172",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zv322",
     "id": "Suttons Bay-Bingham District Library",
     "lon": "-85.629152",
     "lat": "44.763894",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z0510",
     "id": "Swartz Creek High School",
     "lon": "-83.843284",
     "lat": "42.955268",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "z8015",
     "id": "Tahquamenon Area School Public Library",
     "lon": "-85.50965",
     "lat": "46.348192",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative','K-12']"
+    "groups": "['Northland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv193",
     "id": "Tamarack District Library",
     "lon": "-85.2729",
     "lat": "43.439364",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv382",
     "id": "Taylor Community Library",
     "lon": "-83.25332",
     "lat": "42.21697",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv049",
     "id": "Taymouth Township Library",
     "lon": "-83.907384",
     "lat": "43.236166",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv371",
     "id": "Tecumseh District Library",
     "lon": "-83.944333",
     "lat": "42.006478",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv324",
     "id": "Tekonsha Township Public Library",
     "lon": "-84.98764",
     "lat": "42.091485",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zx012",
     "id": "The Library Network",
     "lon": "-83.453974",
     "lat": "42.478477",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv293",
     "id": "Thomas Township Library",
     "lon": "-84.077019",
     "lat": "43.419082",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv182",
     "id": "Thompson Home Public Library",
     "lon": "-84.607877",
     "lat": "43.291503",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8011",
     "id": "Thornapple-Kellogg Library",
     "lon": "-85.48769",
     "lat": "42.709288",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative','K-12']"
+    "groups": "['Lakeland Library Cooperative','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv326",
     "id": "Three Oaks Township Public Library",
     "lon": "-86.61056",
     "lat": "41.800896",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv327",
     "id": "Three Rivers Public Library",
     "lon": "-85.633715",
     "lat": "41.94504",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv328",
     "id": "Topinabee Public Library",
     "lon": "-84.591545",
     "lat": "45.484911",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv330",
     "id": "Traverse Area District Library",
     "lon": "-85.608588",
     "lat": "44.757175",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv383",
     "id": "Trenton Veterans Memorial Library",
     "lon": "-83.205453",
     "lat": "42.141579",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv831",
     "id": "Troy Public Library",
     "lon": "-83.154678",
     "lat": "42.564599",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zf014",
     "id": "University of Detroit Mercy",
     "lon": "-83.140037",
     "lat": "42.412822",
     "uni": "TRUE",
-    "groups": "['Association of Catholic Colleges and Universities','Detroit Universities & Colleges','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']"
+    "groups": "['Association of Catholic Colleges and Universities','Detroit Universities & Colleges','Council of Independent Colleges','National Association of Indepentend Colleges and Universities']",
+    "logo": "images/logos/UofDMercy.jpg"
   },
   {
+    "RIDES": "za511",
     "id": "University of Michigan - Ann Arbor",
     "lon": "-83.7382",
     "lat": "42.276324",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','R1','Oak Ridge Associated Universities']",
+    "groups": "['Michigan Association of State Universities','R1','Michigan Research Libraries Triangle (MRLT)','Research Universities for Michigan (RU4M)','Oak Ridge Associated Universities']",
     "logo": "images/logos/uofm.png"
   },
   {
+    "RIDES": "za012",
     "id": "University of Michigan - Dearborn",
     "lon": "-83.231309",
     "lat": "42.312973",
@@ -3317,6 +4221,7 @@
     "logo": "images/logos/uofm.png"
   },
   {
+    "RIDES": "za016",
     "id": "University of Michigan Business",
     "lon": "-83.73609",
     "lat": "42.273123",
@@ -3325,111 +4230,142 @@
     "logo": "images/logos/uofm.png"
   },
   {
+    "RIDES": "zv834",
     "id": "Utica Public Library",
     "lon": "-83.036827",
     "lat": "42.625429",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv088",
     "id": "Van Buren District Library",
     "lon": "-85.975202",
     "lat": "42.109434",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative','Woodlands Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative','Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv336",
     "id": "Vermontville Township Library",
     "lon": "-85.024286",
     "lat": "42.627322",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv337",
     "id": "Vernon District Public Library",
     "lon": "-83.855288",
     "lat": "43.063518",
     "uni": "FALSE",
-    "groups": "['Mideastern Michigan Library Cooperative']"
+    "groups": "['Mideastern Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv339",
     "id": "Vicksburg District Library",
     "lon": "-85.533712",
     "lat": "42.118626",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv340",
     "id": "Wakefield Public Library",
     "lon": "-89.941589",
     "lat": "46.474842",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv341",
     "id": "Waldron District Library",
     "lon": "-84.418719",
     "lat": "41.72792",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "z8021",
     "id": "Walkerville Public/School Library",
     "lon": "-85.50435",
     "lat": "43.7746",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League','K-12']"
+    "groups": "['Mid-Michigan Library League','K-12']",
+    "logo": ""
   },
   {
+    "RIDES": "zv342",
     "id": "Walled Lake City Library",
     "lon": "-83.472254",
     "lat": "42.539419",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zf016",
     "id": "Walsh College",
     "lon": "-83.146795",
     "lat": "42.573849",
     "uni": "TRUE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv844",
     "id": "Warren Public Library",
     "lon": "-83.024527",
     "lat": "42.511661",
     "uni": "FALSE",
-    "groups": "['Suburban Library Cooperative']"
+    "groups": "['Suburban Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc027",
     "id": "Washtenaw Community College",
     "lon": "-83.663719",
     "lat": "42.263371",
     "uni": "TRUE",
-    "groups": "['Community Colleges']"
+    "groups": "['Community Colleges']",
+    "logo": ""
   },
   {
+    "RIDES": "zv346",
     "id": "Waterford Township Public Library",
     "lon": "-83.389481",
     "lat": "42.669307",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv123",
     "id": "Watertown Township Library",
     "lon": "-83.371893",
     "lat": "43.249789",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv347",
     "id": "Watervliet District Library",
     "lon": "-86.260229",
     "lat": "42.188984",
     "uni": "FALSE",
-    "groups": "['Southwest Michigan Library Cooperative']"
+    "groups": "['Southwest Michigan Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zc028",
     "id": "Wayne County Community College District",
     "lon": "-83.056978",
     "lat": "42.326122",
@@ -3438,49 +4374,61 @@
     "logo": "images/logos/waynecountycc.jpg"
   },
   {
+    "RIDES": "z7024",
     "id": "Wayne County RESA",
     "lon": "-83.370519",
     "lat": "42.268889",
     "uni": "FALSE",
-    "groups": "[]"
+    "groups": "[]",
+    "logo": ""
   },
   {
+    "RIDES": "zv349",
     "id": "Wayne Public Library",
     "lon": "-83.383123",
     "lat": "42.281157",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "za014",
     "id": "Wayne State University",
     "lon": "-83.070338",
     "lat": "42.356454",
     "uni": "TRUE",
-    "groups": "['Michigan Association of State Universities','Transfer Pathways','R1','Oak Ridge Associated Universities','GLIAC','Detroit Universities & Colleges']",
+    "groups": "['Michigan Association of State Universities','Transfer Pathways','R1','Michigan Research Libraries Triangle (MRLT)','Research Universities for Michigan (RU4M)','Oak Ridge Associated Universities','GLIAC','Detroit Universities & Colleges']",
     "logo": "images/logos/wayne.png"
   },
   {
+    "RIDES": "zv350",
     "id": "West Bloomfield Township Public Library",
     "lon": "-83.374775",
     "lat": "42.559992",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv351",
     "id": "West Branch District Library",
     "lon": "-84.239854",
     "lat": "44.278978",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv179",
     "id": "West Iron District Library",
     "lon": "-88.639168",
     "lat": "46.091638",
     "uni": "FALSE",
-    "groups": "['Superiorland Library Cooperative']"
+    "groups": "['Superiorland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "za515",
     "id": "Western Michigan University",
     "lon": "-85.610501",
     "lat": "42.284895",
@@ -3489,80 +4437,102 @@
     "logo": "images/logos/wmu.png"
   },
   {
+    "RIDES": "zv353",
     "id": "Westland/William P. Faust Public Library",
     "lon": "-83.400399",
     "lat": "42.328575",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv354",
     "id": "White Cloud Community Library",
     "lon": "-85.776026",
     "lat": "43.549822",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv358",
     "id": "White Lake Community Library",
     "lon": "-86.342885",
     "lat": "43.386246",
     "uni": "FALSE",
-    "groups": "['Lakeland Library Cooperative']"
+    "groups": "['Lakeland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv355",
     "id": "White Lake Township Library",
     "lon": "-83.50392",
     "lat": "42.645591",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv356",
     "id": "White Pigeon Township Library",
     "lon": "-85.643028",
     "lat": "41.79865",
     "uni": "FALSE",
-    "groups": "['Woodlands Library Cooperative']"
+    "groups": "['Woodlands Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv316",
     "id": "White Pine District Library",
     "lon": "-85.074231",
     "lat": "43.296999",
     "uni": "FALSE",
-    "groups": "['Mid-Michigan Library League']"
+    "groups": "['Mid-Michigan Library League']",
+    "logo": ""
   },
   {
+    "RIDES": "zx011",
     "id": "White Pine Library Cooperative",
     "lon": "-83.393689",
     "lat": "43.491244",
     "uni": "FALSE",
-    "groups": "['White Pine Library Cooperative']"
+    "groups": "['White Pine Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv360",
     "id": "Wixom Public Library",
     "lon": "-83.531339",
     "lat": "42.52359",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv361",
     "id": "Wolverine Community Library",
     "lon": "-84.607437",
     "lat": "45.273292",
     "uni": "FALSE",
-    "groups": "['Northland Library Cooperative']"
+    "groups": "['Northland Library Cooperative']",
+    "logo": ""
   },
   {
+    "RIDES": "zv363",
     "id": "Wyandotte Bacon Memorial District Library",
     "lon": "-83.147711",
     "lat": "42.207386",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   },
   {
+    "RIDES": "zv864",
     "id": "Ypsilanti District Library",
     "lon": "-83.614883",
     "lat": "42.208342",
     "uni": "FALSE",
-    "groups": "['The Library Network']"
+    "groups": "['The Library Network']",
+    "logo": ""
   }
 ]
