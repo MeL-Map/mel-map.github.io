@@ -5,6 +5,7 @@ const DATA_URLS = {
     locations: 'mapdata/locations.json',
     flows: {
         '20 Years of MeLCat - 2006-2025': 'mapdata/20 Years of MeLCat - 2006-2025.json',
+        '2026': 'mapdata/2026.json',
         '2025': 'mapdata/2025.json',
         '2024': 'mapdata/2024.json',
         '2023': 'mapdata/2023.json',
