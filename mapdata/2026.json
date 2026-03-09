@@ -1,1232 +1,2240 @@
 [
   {
-    "origin": "Albion College",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Alma College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Alma College",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "7",
+    "Albion College": "Ann Arbor District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Ann Arbor District Library",
-    "dest": "Wayne State University",
-    "count": "7",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Baldwin Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Baldwin Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Brighton District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Brighton District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "6",
+    "Albion College": "Calvin University & Seminary",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Calvin University & Seminary",
-    "dest": "Wayne State University",
-    "count": "6",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Capital Area District Libraries",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Capital Area District Libraries",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "8",
+    "Albion College": "Central Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Central Michigan University",
-    "dest": "Wayne State University",
-    "count": "8",
-    "month": "January"
+    "3": "1",
+    "Albion College": "College for Creative Studies",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "College for Creative Studies",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Dearborn Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Dearborn Public Library",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Delta Township District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Delta Township District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "East Lansing Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "East Lansing Public Library",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "11",
+    "Albion College": "Eastern Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Eastern Michigan University",
-    "dest": "Wayne State University",
-    "count": "11",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Ferris State University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Ferris State University",
-    "dest": "Wayne State University",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Flat River Community Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Flat River Community Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Galesburg Charleston Memorial District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Galesburg Charleston Memorial District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Genesee District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Genesee District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Grace A. Dow Memorial Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Grace A. Dow Memorial Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Grand Rapids Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Grand Rapids Public Library",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "11",
+    "Albion College": "Grand Valley State University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Grand Valley State University",
-    "dest": "Wayne State University",
-    "count": "11",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Grosse Pointe Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Grosse Pointe Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Harbor Beach Area District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Harbor Beach Area District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Hart Area Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Hart Area Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "12",
+    "Albion College": "Hillsdale College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Hillsdale College",
-    "dest": "Wayne State University",
-    "count": "12",
-    "month": "January"
+    "3": "7",
+    "Albion College": "Hope College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Hope College",
-    "dest": "Wayne State University",
-    "count": "7",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Jackson District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Jackson District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Kalamazoo College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Kalamazoo College",
-    "dest": "Wayne State University",
-    "count": "5",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Kalamazoo Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Kalamazoo Public Library",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Kellogg Community College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Kellogg Community College",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Kendall College of Art and Design",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Kendall College of Art and Design",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Kent District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Kent District Library",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Library of Michigan",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Library of Michigan",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "MacDonald Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "MacDonald Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Macomb Community College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Macomb Community College",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "23",
+    "Albion College": "Michigan State University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Michigan State University",
-    "dest": "Wayne State University",
-    "count": "23",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Michigan Technological University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Michigan Technological University",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Monroe County Library System",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Monroe County Library System",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Northern Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Northern Michigan University",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Northwestern Michigan College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Northwestern Michigan College",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Novi Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Novi Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Oakland Community College",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Oakland Community College",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Oakland University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Oakland University",
-    "dest": "Wayne State University",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Oxford Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Oxford Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Public Libraries of Saginaw",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Public Libraries of Saginaw",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Richland Community Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Richland Community Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Saginaw Valley State University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Saginaw Valley State University",
-    "dest": "Wayne State University",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Saline District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Saline District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Shelby Area District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Shelby Area District Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Sherman Township Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Sherman Township Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Southfield Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Southfield Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Sterling Heights Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Sterling Heights Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Tahquamenon Area School Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Tahquamenon Area School Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Traverse Area District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Traverse Area District Library",
-    "dest": "Wayne State University",
-    "count": "2",
-    "month": "January"
+    "3": "4",
+    "Albion College": "University of Detroit Mercy",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "University of Detroit Mercy",
-    "dest": "Wayne State University",
-    "count": "4",
-    "month": "January"
+    "3": "28",
+    "Albion College": "University of Michigan - Ann Arbor",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "University of Michigan - Ann Arbor",
-    "dest": "Wayne State University",
-    "count": "28",
-    "month": "January"
+    "3": "5",
+    "Albion College": "University of Michigan - Dearborn",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "University of Michigan - Dearborn",
-    "dest": "Wayne State University",
-    "count": "5",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Warren Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Warren Public Library",
-    "dest": "Wayne State University",
-    "count": "1",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Western Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "January"
   },
   {
-    "origin": "Western Michigan University",
-    "dest": "Wayne State University",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Adrian District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Adrian District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Allegan District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Allegan District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Alpena County George N. Fletcher Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Alpena County George N. Fletcher Library",
-    "count": "1",
-    "month": "January"
+    "3": "23",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ann Arbor District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Ann Arbor District Library",
-    "count": "23",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Auburn Hills Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Auburn Hills Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Baldwin Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Baldwin Public Library",
-    "count": "4",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Bath Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Bath Township Public Library",
-    "count": "3",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Bay County Library System",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Bay County Library System",
-    "count": "5",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Benzie Shores District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Benzie Shores District Library",
-    "count": "3",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Berkley Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Berkley Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Berrien Springs Community Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Berrien Springs Community Library",
-    "count": "2",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Bloomfield Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Bloomfield Township Public Library",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Branch District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Branch District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Briggs District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Briggs District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Brighton District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Brighton District Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Cadillac Wexford Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Cadillac Wexford Public Library",
-    "count": "3",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Calvin University & Seminary",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Calvin University & Seminary",
-    "count": "2",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Canton Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Canton Public Library",
-    "count": "5",
-    "month": "January"
+    "3": "22",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Capital Area District Libraries",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Capital Area District Libraries",
-    "count": "22",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Central Michigan University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Central Michigan University",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Charlevoix Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Charlevoix Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Chesterfield Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Chesterfield Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Chippewa River District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Chippewa River District Library",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Clarkston Independence District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Clarkston Independence District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Clawson Blair Memorial Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Clawson Blair Memorial Library",
-    "count": "1",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Clinton-Macomb Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Clinton-Macomb Public Library",
-    "count": "5",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Community District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Community District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Constantine Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Constantine Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dearborn Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Dearborn Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Delta Township District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Delta Township District Library",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "DeWitt District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "DeWitt District Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dickinson County Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Dickinson County Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dowagiac District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Dowagiac District Library",
-    "count": "1",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "East Lansing Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "East Lansing Public Library",
-    "count": "5",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Eastern Michigan University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Eastern Michigan University",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ecorse Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Ecorse Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Evart Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Evart Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Farmington Community Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Farmington Community Library",
-    "count": "3",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ferndale Area District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Ferndale Area District Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Flat River Community Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Flat River Community Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Frankenmuth Wickson District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Frankenmuth Wickson District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Fraser Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Fraser Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Fruitport District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Fruitport District Library",
-    "count": "3",
-    "month": "January"
+    "3": "11",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Genesee District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Genesee District Library",
-    "count": "11",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Georgetown Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Georgetown Township Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Gladwin County District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Gladwin County District Library",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Glen Oaks Community College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Glen Oaks Community College",
-    "count": "1",
-    "month": "January"
+    "3": "7",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grace A. Dow Memorial Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Grace A. Dow Memorial Library",
-    "count": "7",
-    "month": "January"
+    "3": "10",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grand Rapids Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Grand Rapids Public Library",
-    "count": "10",
-    "month": "January"
+    "3": "8",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grosse Pointe Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Grosse Pointe Public Library",
-    "count": "8",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hackley Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hackley Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hamburg Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hamburg Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hamtramck Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hamtramck Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Harrison Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Harrison Township Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hart Area Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hart Area Public Library",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hastings Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hastings Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Herrick District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Herrick District Library",
-    "count": "2",
-    "month": "January"
+    "3": "10",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hillsdale College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hillsdale College",
-    "count": "10",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hillsdale Community Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hillsdale Community Library",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hope College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Hope College",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Houghton Lake Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Houghton Lake Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Huntington Woods Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Huntington Woods Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Iosco-Arenac District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Iosco-Arenac District Library",
-    "count": "2",
-    "month": "January"
+    "3": "6",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Jackson District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Jackson District Library",
-    "count": "6",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Jordan Valley District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Jordan Valley District Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kalamazoo College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Kalamazoo College",
-    "count": "3",
-    "month": "January"
+    "3": "10",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kalamazoo Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Kalamazoo Public Library",
-    "count": "10",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kendall College of Art and Design",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Kendall College of Art and Design",
-    "count": "2",
-    "month": "January"
+    "3": "17",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kent District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Kent District Library",
-    "count": "17",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lake Superior State University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Lake Superior State University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lansing Community College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Lansing Community College",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lapeer District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Lapeer District Library",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Leighton Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Leighton Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Leland Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Leland Township Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lincoln Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Lincoln Township Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lois Wagner Memorial Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Lois Wagner Memorial Library",
-    "count": "2",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Loutit District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Loutit District Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Madison Heights Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Madison Heights Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Manistee County Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Manistee County Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Marion Area District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Marion Area District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Marshall District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Marshall District Library",
-    "count": "1",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Mason County District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Mason County District Library",
-    "count": "5",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Mendon Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Mendon Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Michigan Technological University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Michigan Technological University",
-    "count": "2",
-    "month": "January"
+    "3": "10",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Monroe County Library System",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Monroe County Library System",
-    "count": "10",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Montmorency County Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Montmorency County Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Morton Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Morton Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Muskegon Area District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Muskegon Area District Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "New Buffalo Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "New Buffalo Township Public Library",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Niles District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Niles District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "North Branch Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "North Branch Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "North Central Michigan College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "North Central Michigan College",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Northern Michigan University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Northern Michigan University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Northfield Township Area Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Northfield Township Area Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Northwestern Michigan College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Northwestern Michigan College",
-    "count": "1",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Nottawa Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Nottawa Township Library",
-    "count": "2",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Novi Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Novi Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Oak Park Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Oak Park Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Oakland University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Oakland University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Orion Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Orion Township Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Otsego County Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Otsego County Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ovid Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Ovid Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Paw Paw District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Paw Paw District Library",
-    "count": "1",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Peter White Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Peter White Public Library",
-    "count": "4",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Plymouth District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Plymouth District Library",
-    "count": "5",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Pontiac Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Pontiac Public Library",
-    "count": "2",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Portage District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Portage District Library",
-    "count": "5",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Portage Lake District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Portage Lake District Library",
-    "count": "1",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Public Libraries of Saginaw",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Public Libraries of Saginaw",
-    "count": "3",
-    "month": "January"
+    "3": "12",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ransom Library - Plainwell",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Ransom Library - Plainwell",
-    "count": "12",
-    "month": "January"
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Redford Township District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Redford Township District Library",
-    "count": "3",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Reed City Area District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Reed City Area District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Richland Community Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Richland Community Library",
-    "count": "1",
-    "month": "January"
+    "3": "6",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Rochester Hills Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Rochester Hills Public Library",
-    "count": "6",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Romeo District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Romeo District Library",
-    "count": "2",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Royal Oak Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Royal Oak Public Library",
-    "count": "4",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saginaw Chippewa Tribal Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Saginaw Chippewa Tribal Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saginaw Valley State University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Saginaw Valley State University",
-    "count": "1",
-    "month": "January"
+    "3": "7",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saline District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Saline District Library",
-    "count": "7",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saugatuck-Douglas District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Saugatuck-Douglas District Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Shelby Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Shelby Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sherman Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Sherman Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Shiawassee District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Shiawassee District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "South Haven Memorial Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "South Haven Memorial Library",
-    "count": "1",
-    "month": "January"
+    "3": "6",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Southfield Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Southfield Public Library",
-    "count": "6",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Spring Lake District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Spring Lake District Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Springfield Township Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Springfield Township Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Charles District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "St. Charles District Library",
-    "count": "1",
-    "month": "January"
+    "3": "9",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Clair County Library System",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "St. Clair County Library System",
-    "count": "9",
-    "month": "January"
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Clair Shores Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "St. Clair Shores Public Library",
-    "count": "4",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Joseph/Maud Preston Palenske Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "St. Joseph/Maud Preston Palenske Library",
-    "count": "2",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sterling Heights Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Sterling Heights Public Library",
-    "count": "5",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Superior District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Superior District Library",
-    "count": "2",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Suttons Bay-Bingham District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Suttons Bay-Bingham District Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Tecumseh District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Tecumseh District Library",
-    "count": "1",
-    "month": "January"
+    "3": "15",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Traverse Area District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Traverse Area District Library",
-    "count": "15",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Trenton Veterans Memorial Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Trenton Veterans Memorial Library",
-    "count": "1",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Troy Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Troy Public Library",
-    "count": "5",
-    "month": "January"
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Van Buren District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Van Buren District Library",
-    "count": "2",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Wakefield Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Wakefield Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Warren Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Warren Public Library",
-    "count": "5",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Washtenaw Community College",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Washtenaw Community College",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "West Bloomfield Township Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "West Bloomfield Township Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "West Branch District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "West Branch District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Western Michigan University",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Western Michigan University",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Westland/William P. Faust Public Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Westland/William P. Faust Public Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ypsilanti District Library",
+    "January": "January"
   },
   {
-    "origin": "Wayne State University",
-    "dest": "Ypsilanti District Library",
-    "count": "1",
-    "month": "January"
+    "3": "1",
+    "Albion College": "Adrian District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Albion College",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Alma College",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Alma Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Ann Arbor District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Belleville Area District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Bloomfield Township Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Brighton District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Cadillac Wexford Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Calvin University & Seminary",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Capital Area District Libraries",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "6",
+    "Albion College": "Central Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Clarkston Independence District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Cornerstone University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Dearborn Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Delta College",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Delta Township District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Eastern Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Ferris State University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Grand Valley State University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Hastings Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Herrick District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Hillsdale College",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Hope College",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Jackson District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Kalamazoo College",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Kalamazoo Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Kendall College of Art and Design",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Kent District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Livonia Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Manistee County Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Mason County District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "19",
+    "Albion College": "Michigan State University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Michigan Technological University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Munising School Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Northern Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Ovid Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Petoskey District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Rochester Hills Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Roseville Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Saginaw Valley State University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Southfield Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "St. Clair County Library System",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Tecumseh District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Troy Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "21",
+    "Albion College": "University of Michigan - Ann Arbor",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "6",
+    "Albion College": "University of Michigan - Dearborn",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Warren Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "West Bloomfield Township Public Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "10",
+    "Albion College": "Western Michigan University",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Ypsilanti District Library",
+    "Wayne State University": "Wayne State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Albion College",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Allendale Township Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Alma Public Library",
+    "January": "February"
+  },
+  {
+    "3": "14",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ann Arbor District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Augusta-Ross Township District Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Baldwin Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Bay County Library System",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Belleville Area District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Berrien Springs Community Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Bloomfield Township Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Branch District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Brandon Township Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Briggs District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Buchanan District Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Calvin University & Seminary",
+    "January": "February"
+  },
+  {
+    "3": "24",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Capital Area District Libraries",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Caro Area District Library",
+    "January": "February"
+  },
+  {
+    "3": "8",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Central Michigan University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Charlotte Community Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Chelsea District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Chippewa River District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Clarenceville High School",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Clinton-Macomb Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Community District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Coopersville Area District Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Cranbrook Educational Community",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dearborn Public Library",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Delta Township District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "DeWitt District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dexter District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dickinson County Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Dorothy Hull Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "East Lansing Public Library",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Eastern Michigan University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Eastpointe Memorial Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Eau Claire District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Farmington Community Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ferndale Area District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ferris State University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Freeport District Library",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Fruitport District Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Genesee District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grace A. Dow Memorial Library",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grand Rapids Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grand Valley State University",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Grosse Pointe Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hamburg Township Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hart Area Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Herrick District Library",
+    "January": "February"
+  },
+  {
+    "3": "9",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hillsdale College",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hillsdale Community Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Hope College",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Howell Carnegie District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ishpeming Carnegie Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Jackson District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kalamazoo College",
+    "January": "February"
+  },
+  {
+    "3": "7",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kalamazoo Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kalkaska County Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kendall College of Art and Design",
+    "January": "February"
+  },
+  {
+    "3": "13",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Kent District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lapeer District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Lawrence Technological University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Leland Township Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Livonia Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Loutit District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Manistee County Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Marcellus Township Wood Memorial Library",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Marshall District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Mason County District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Michigan Technological University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Millington Arbela District Library",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Monroe County Library System",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Montmorency County Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Moore Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Mulliken District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Niles District Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Northern Michigan University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Northfield Township Area Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Novi Public Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Oak Park Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Oakland University",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Orion Township Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Otsego County Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Oxford Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Petoskey District Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Plymouth District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Pontiac Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Portage Lake District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Presque Isle District Library",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Public Libraries of Saginaw",
+    "January": "February"
+  },
+  {
+    "3": "8",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ransom Library - Plainwell",
+    "January": "February"
+  },
+  {
+    "3": "9",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Rochester Hills Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Royal Oak Public Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saline District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sanilac District Library",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saranac Clarksville District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Saugatuck-Douglas District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sebewaing Township Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Shelby Township Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sherman Township Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Southfield Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Charles District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Clair County Library System",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "St. Clair Shores Public Library",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sterling Heights Public Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Sturgis District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Suttons Bay-Bingham District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Tecumseh District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Three Rivers Public Library",
+    "January": "February"
+  },
+  {
+    "3": "9",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Traverse Area District Library",
+    "January": "February"
+  },
+  {
+    "3": "5",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Troy Public Library",
+    "January": "February"
+  },
+  {
+    "3": "4",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Van Buren District Library",
+    "January": "February"
+  },
+  {
+    "3": "1",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Washtenaw Community College",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Waterford Township Public Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Wayne Public Library",
+    "January": "February"
+  },
+  {
+    "3": "9",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "West Bloomfield Township Public Library",
+    "January": "February"
+  },
+  {
+    "3": "3",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Western Michigan University",
+    "January": "February"
+  },
+  {
+    "3": "2",
+    "Albion College": "Wayne State University",
+    "Wayne State University": "Ypsilanti District Library",
+    "January": "February"
   }
 ]
