@@ -459,7 +459,7 @@ function shouldPulseFlow(flow) {
 }
 
 function pulseAmount(ts) {
-    return 0.18 + 0.42 * (0.5 + 0.5 * Math.sin(ts / 550));
+    return 0.18 + 0.42 * (0.5 + 0.5 * Math.sin(ts / 250));
 }
 
 function blendTowardWhite(color, amount) {
