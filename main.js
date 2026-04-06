@@ -155,6 +155,7 @@ map.once('load', () => {
 let nodesLayer = null,
     nodesDirty = true;
 let hoveredNodeId = null;
+let hoveredFlowKey = null;
 const datasetSel = document.getElementById('datasetSel');
 const monthMulti = document.getElementById('monthMulti');
 const monthBtn = document.getElementById('monthBtn');
@@ -448,6 +449,28 @@ function colorByNonDetroit(flow, alpha = 220) {
     return colorByUni(nonDetroitUni(flow), alpha);
 }
 
+function flowKey(flow) {
+    return `${flow.source}->${flow.target}`;
+}
+
+function shouldPulseFlow(flow) {
+    return (hoveredFlowKey && hoveredFlowKey === flowKey(flow)) ||
+           (hoveredNodeId && (flow.source === hoveredNodeId || flow.target === hoveredNodeId));
+}
+
+function pulseAmount(ts) {
+    return 0.18 + 0.42 * (0.5 + 0.5 * Math.sin(ts / 550));
+}
+
+function blendTowardWhite(color, amount) {
+    return [
+        Math.round(lerp(color[0], 255, amount)),
+        Math.round(lerp(color[1], 255, amount)),
+        Math.round(lerp(color[2], 255, amount)),
+        color[3]
+    ];
+}
+
 function flowSizePx(basePx, count) {
     const norm = clamp01(((+count || 0) - FLOW_MIN) / (FLOW_MAX - FLOW_MIN));
     const s = 0.6 + 4.6 * Math.pow(norm, 1.15);
@@ -519,6 +542,7 @@ function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
     const steps = dyn?.steps || TRAIL_STEPS;
     const data = [];
     const fudgeAlpha = !respectFilters;
+    const pulse = pulseAmount(ts);
     for(const f of flows) {
         const angle = bearingDegScreen(f.sourceLon, f.sourceLat, f.targetLon, f.targetLat);
         const seed = flowSeed01(f);
@@ -534,6 +558,7 @@ function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
         const stepSpacingEff = 1 / stepsEff;
         const segPxEff = stepsEff * stepPxEff;
         const halfFrac = Math.min(0.49, (renderW / 2) / Math.max(1, segPxEff));
+        const flashThisFlow = shouldPulseFlow(f);
         let lastI = -1;
         for(let j = 0; j < steps; j++) {
             const i = Math.floor(j * stepsEff / steps);
@@ -549,7 +574,8 @@ function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
             const fadeF = fadeAlphaFor(uRaw, halfFrac, fadeLenFrac);
             const aRaw = Math.round(255 * fadeF);
             const a = fudgeAlpha ? Math.max(1, aRaw) : aRaw;
-            const col = colorByNonDetroit(f, a);
+            let col = colorByNonDetroit(f, a);
+            if(flashThisFlow) col = blendTowardWhite(col, pulse);
             data.push({
                 id: `${f.source}->${f.target}:${j}`,
                 flow: f,
@@ -590,6 +616,9 @@ function makeLayers(ts = 0, zoom = 6) {
         getPosition: d => d.position,
         getColor: d => d.color,
         getAngle: d => d.angle,
+        onHover: info => {
+            hoveredFlowKey = info.object ? flowKey(info.object.flow) : null;
+        },
         parameters: {
             depthTest: false
         },
@@ -624,7 +653,11 @@ function makeLayers(ts = 0, zoom = 6) {
             lineWidthMinPixels: 1,
             getFillColor: d => (hoveredNodeId && d.id === hoveredNodeId) ? [200, 200, 200, 255] : [255, 255, 255, 230],
             onHover: info => {
-                hoveredNodeId = info.object ? info.object.id : null;
+                const nextId = info.object ? info.object.id : null;
+                if(nextId !== hoveredNodeId) {
+                    hoveredNodeId = nextId;
+                    nodesDirty = true;
+                }
             },
             onClick: info => {
                 const p = info.object;
