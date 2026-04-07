@@ -467,7 +467,7 @@ function blendTowardWhite(color, amount) {
         Math.round(lerp(color[0], 255, amount)),
         Math.round(lerp(color[1], 255, amount)),
         Math.round(lerp(color[2], 255, amount)),
-        color[3]
+        lerp(color[3], 1, amount)
     ];
 }
 
