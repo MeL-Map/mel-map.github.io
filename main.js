@@ -907,5 +907,5 @@ map.on('load', async () => {
 });
 
 function showCredits() {
-    alert('Designed and programmed by Vaughn Haynes\n\nWith support from Theresa Hovey, Maria Nuccilli, and Mike Hawthorne\n\nCode support by Shannon McDermitt\n\nSpecial thanks to Tara Kanon, Megan Dudek, and Sarah Zawacki at MeL')
+    alert('MeL Map team: Maria Nuccilli, Mike Hawthorne, Theresa Hovey, Vaughn Haynes\n\nCode support by Shannon McDermitt\n\nSpecial thanks to Tara Kanon, Megan Dudek, and Sarah Zawacki at MeL')
 }
