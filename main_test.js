@@ -19,6 +19,8 @@ const MONTHS = [
 ];
 const CSV_PATHS = filename => [`mapdata/${filename}`, filename];
 const csvCache = new Map();
+let availableMonths = [];
+let monthsDiscovered = false;
 
 let PLACES = [];
 let byId = {};
@@ -201,7 +203,21 @@ function parseCount(value) {
 }
 function filenameForMonth(year, monthValue) { return `${monthValue}-${year}.csv`; }
 function selectedMonthValues() {
-  return state.monthCumulative ? MONTHS.map(m => m.value) : Array.from(state.months).sort();
+  const months = monthsDiscovered ? availableMonths : MONTHS;
+  if (state.monthCumulative) return months.map(m => m.value);
+  const valid = new Set(months.map(m => m.value));
+  return Array.from(state.months).filter(m => valid.has(m)).sort();
+}
+async function discoverAvailableMonths(year) {
+  const checks = await Promise.all(MONTHS.map(async month => {
+    const result = await loadFlowsFromCSVFile(filenameForMonth(year, month.value));
+    return (result.loaded && result.flows.length > 0) ? month : null;
+  }));
+  availableMonths = checks.filter(Boolean);
+  monthsDiscovered = true;
+  const valid = new Set(availableMonths.map(m => m.value));
+  state.months = new Set(Array.from(state.months).filter(m => valid.has(m)));
+  if (!state.monthCumulative && state.months.size === 0) state.monthCumulative = true;
 }
 
 async function loadLocations(url = DATA_URLS.locations) {
@@ -257,10 +273,6 @@ async function loadSelectedFlows() {
   const files = months.map(m => filenameForMonth(state.selectedYear, m));
   const results = await Promise.all(files.map(loadFlowsFromCSVFile));
   RAW_FLOWS = results.flatMap(r => r.flows);
-  const loaded = results.filter(r => r.loaded && r.flows.length);
-  if (state.monthCumulative) CURRENT_DATASET_LABEL = `${state.selectedYear} cumulative`;
-  else if (loaded.length) CURRENT_DATASET_LABEL = loaded.map(r => r.label).join(', ');
-  else CURRENT_DATASET_LABEL = `${state.selectedYear} selected months`;
 }
 
 function availableFocusNames() {
@@ -299,7 +311,8 @@ function buildYearOptions() {
 function updateMonthBtnLabel() {
   if (state.monthCumulative) { monthBtn.textContent = 'Cumulative'; return; }
   if (state.months.size === 0) { monthBtn.textContent = 'Select months…'; return; }
-  const labels = MONTHS.filter(m => state.months.has(m.value)).map(m => m.label);
+  const months = monthsDiscovered ? availableMonths : MONTHS;
+  const labels = months.filter(m => state.months.has(m.value)).map(m => m.label);
   monthBtn.textContent = labels.length <= 3 ? labels.join(', ') : `${labels.length} months selected`;
 }
 function buildMonthsPanel() {
@@ -324,7 +337,15 @@ function buildMonthsPanel() {
   cumRow.appendChild(cumSpan);
   monthPanel.appendChild(cumRow);
 
-  for (const month of MONTHS) {
+  if (!availableMonths.length) {
+    const emptyRow = document.createElement('div');
+    emptyRow.className = 'check';
+    emptyRow.textContent = 'No month files found';
+    monthPanel.appendChild(emptyRow);
+  }
+
+  const monthsToShow = availableMonths.length ? availableMonths : [];
+  for (const month of monthsToShow) {
     const row = document.createElement('label');
     row.className = 'check';
     const cb = document.createElement('input');
@@ -553,13 +574,29 @@ function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
   return data;
 }
 
+function focusMetricsForLocation(id) {
+  let received = 0;
+  let loaned = 0;
+  if (!HUB_ID || !id) return { received, loaned };
+  for (const f of FLOWS) {
+    if (id === HUB_ID) {
+      if (f.target === HUB_ID) received += f.count;
+      if (f.source === HUB_ID) loaned += f.count;
+    } else {
+      if (f.source === HUB_ID && f.target === id) received += f.count;
+      if (f.source === id && f.target === HUB_ID) loaned += f.count;
+    }
+  }
+  return { received, loaned };
+}
 function nodeTooltipHTML(obj) {
-  const t = TOTALS[obj.id] || { in: 0, out: 0, total: 0 };
+  const m = focusMetricsForLocation(obj.id);
   const logo = obj.logo ? `<img class='tt-logo' alt='' src='${obj.logo}'/>` : '';
+  const receivedLabel = obj.id === HUB_ID ? 'Total received' : `Received from ${HUB_ID}`;
+  const loanedLabel = obj.id === HUB_ID ? 'Total loaned' : `Loaned to ${HUB_ID}`;
   return `<div class='tt-header'>${logo}<div class='tt-title'>${obj.id}</div></div>
-          <div class='tt-stat'>Received: ${t.in.toLocaleString()}</div>
-          <div class='tt-stat'>Loaned: ${t.out.toLocaleString()}</div>
-          <div class='tt-stat'>Data: ${CURRENT_DATASET_LABEL}</div>`;
+          <div class='tt-stat'>${receivedLabel}: ${m.received.toLocaleString()}</div>
+          <div class='tt-stat'>${loanedLabel}: ${m.loaned.toLocaleString()}</div>`;
 }
 function makeLayers(ts = 0, zoom = 6) {
   const dyn = flowDynamics(zoom);
@@ -581,8 +618,8 @@ function makeLayers(ts = 0, zoom = 6) {
     updateTriggers: { getPosition: ts, getColor: ts, getSize: zoom, getAngle: ts }
   });
   if (!nodesLayer || nodesDirty) {
-    const nodesData = PLACES.map(p => ({ ...p, totals: TOTALS[p.id] }));
-    const computeRadius = d => 560 + Math.sqrt((d.totals?.total) || 0) * 30;
+    const nodesData = PLACES.map(p => ({ ...p, totals: TOTALS[p.id], focusMetrics: focusMetricsForLocation(p.id) }));
+    const computeRadius = d => 560 + Math.sqrt((d.focusMetrics.received + d.focusMetrics.loaned) || 0) * 30;
     for (const d of nodesData) d._radius = computeRadius(d);
     nodesData.sort((a, b) => (b._radius - a._radius) || a.id.localeCompare(b.id));
     nodesLayer = new deck.ScatterplotLayer({
@@ -784,6 +821,7 @@ datasetSel.addEventListener('change', async () => {
   state.selectedYear = datasetSel.value;
   state.monthCumulative = true;
   state.months.clear();
+  await discoverAvailableMonths(state.selectedYear);
   buildMonthsPanel();
   await refreshDataForCurrentSelection(false);
 });
@@ -795,8 +833,9 @@ function animate(ts) {
 
 const dataReady = (async () => {
   buildYearOptions();
-  buildMonthsPanel();
   await loadLocations();
+  await discoverAvailableMonths(state.selectedYear);
+  buildMonthsPanel();
   await loadSelectedFlows();
   rebuildAggregates();
 })();
