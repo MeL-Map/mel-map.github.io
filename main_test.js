@@ -1,16 +1,24 @@
 const EMBED = /[?&](embed|embedded)=1/i.test(location.search);
 if (EMBED) document.documentElement.classList.add('embed');
 
-const DATA_URLS = {
-  locations: 'mapdata/locations.json'
-};
-const CSV_FILES = [
-  { value: '01-2026.csv', label: 'January 2026' },
-  { value: '02-2026.csv', label: 'February 2026' },
-  { value: '03-2026.csv', label: 'March 2026' },
-  { value: '04-2026.csv', label: 'April 2026' }
+const DATA_URLS = { locations: 'mapdata/locations.json' };
+const YEARS = ['2026'];
+const MONTHS = [
+  { value: '01', label: 'January' },
+  { value: '02', label: 'February' },
+  { value: '03', label: 'March' },
+  { value: '04', label: 'April' },
+  { value: '05', label: 'May' },
+  { value: '06', label: 'June' },
+  { value: '07', label: 'July' },
+  { value: '08', label: 'August' },
+  { value: '09', label: 'September' },
+  { value: '10', label: 'October' },
+  { value: '11', label: 'November' },
+  { value: '12', label: 'December' }
 ];
 const CSV_PATHS = filename => [`mapdata/${filename}`, filename];
+const csvCache = new Map();
 
 let PLACES = [];
 let byId = {};
@@ -20,13 +28,15 @@ let FLOWS_X = [];
 let TOTALS = {};
 let FLOW_MIN = 0;
 let FLOW_MAX = 1;
-let HUB_ID = 'Wayne State University';
+let HUB_ID = '';
 let CURRENT_DATASET_LABEL = '';
 let state = {
   mode: 'all',
   filters: new Set(),
   groups: new Set(),
-  datasetFile: '01-2026.csv'
+  selectedYear: '2026',
+  months: new Set(),
+  monthCumulative: true
 };
 
 function lerp(a, b, t) { return a * (1 - t) + b * t; }
@@ -112,6 +122,9 @@ let hoveredNodeId = null;
 let hoveredFlowKey = null;
 
 const datasetSel = document.getElementById('datasetSel');
+const monthMulti = document.getElementById('monthMulti');
+const monthBtn = document.getElementById('monthBtn');
+const monthPanel = document.getElementById('monthPanel');
 const focusLocationSel = document.getElementById('focusLocationSel');
 const searchCity = document.getElementById('searchCity');
 const cityList = document.getElementById('cityList');
@@ -186,6 +199,10 @@ function parseCount(value) {
   const n = Number(String(value ?? '').replace(/,/g, '').trim());
   return Number.isFinite(n) ? n : 0;
 }
+function filenameForMonth(year, monthValue) { return `${monthValue}-${year}.csv`; }
+function selectedMonthValues() {
+  return state.monthCumulative ? MONTHS.map(m => m.value) : Array.from(state.months).sort();
+}
 
 async function loadLocations(url = DATA_URLS.locations) {
   const arr = await safeFetchJSON(url);
@@ -208,16 +225,17 @@ async function loadLocations(url = DATA_URLS.locations) {
   buildCityList();
   buildGroupPanel();
 }
-async function loadFlowsFromCSV(filename) {
+async function loadFlowsFromCSVFile(filename) {
+  if (csvCache.has(filename)) return csvCache.get(filename);
   const text = await safeFetchTextMany(CSV_PATHS(filename));
   if (!text) {
-    RAW_FLOWS = [];
-    CURRENT_DATASET_LABEL = filename;
-    return;
+    const empty = { filename, label: filename, flows: [], loaded: false };
+    csvCache.set(filename, empty);
+    return empty;
   }
   const rows = parseCSV(text);
   const header = rows[0] || [];
-  CURRENT_DATASET_LABEL = String(header[0] || filename).trim();
+  const label = String(header[0] || filename).trim();
   const destinations = header.slice(1).map(x => String(x).trim());
   const flows = [];
   for (let r = 1; r < rows.length; r++) {
@@ -227,10 +245,22 @@ async function loadFlowsFromCSV(filename) {
       const dest = destinations[c - 1];
       if (!dest) continue;
       const count = parseCount(rows[r][c]);
-      if (count > 0) flows.push({ origin, dest, month: CURRENT_DATASET_LABEL, count });
+      if (count > 0) flows.push({ origin, dest, month: label, monthFile: filename, count });
     }
   }
-  RAW_FLOWS = flows;
+  const result = { filename, label, flows, loaded: true };
+  csvCache.set(filename, result);
+  return result;
+}
+async function loadSelectedFlows() {
+  const months = selectedMonthValues();
+  const files = months.map(m => filenameForMonth(state.selectedYear, m));
+  const results = await Promise.all(files.map(loadFlowsFromCSVFile));
+  RAW_FLOWS = results.flatMap(r => r.flows);
+  const loaded = results.filter(r => r.loaded && r.flows.length);
+  if (state.monthCumulative) CURRENT_DATASET_LABEL = `${state.selectedYear} cumulative`;
+  else if (loaded.length) CURRENT_DATASET_LABEL = loaded.map(r => r.label).join(', ');
+  else CURRENT_DATASET_LABEL = `${state.selectedYear} selected months`;
 }
 
 function availableFocusNames() {
@@ -256,6 +286,89 @@ function buildFocusOptions() {
   else HUB_ID = names[0] || '';
   focusLocationSel.value = HUB_ID;
 }
+function buildYearOptions() {
+  datasetSel.innerHTML = '';
+  for (const year of YEARS) {
+    const opt = document.createElement('option');
+    opt.value = year;
+    opt.textContent = year;
+    datasetSel.appendChild(opt);
+  }
+  datasetSel.value = state.selectedYear;
+}
+function updateMonthBtnLabel() {
+  if (state.monthCumulative) { monthBtn.textContent = 'Cumulative'; return; }
+  if (state.months.size === 0) { monthBtn.textContent = 'Select months…'; return; }
+  const labels = MONTHS.filter(m => state.months.has(m.value)).map(m => m.label);
+  monthBtn.textContent = labels.length <= 3 ? labels.join(', ') : `${labels.length} months selected`;
+}
+function buildMonthsPanel() {
+  monthPanel.innerHTML = '';
+  const cumRow = document.createElement('label');
+  cumRow.className = 'check';
+  const cumCB = document.createElement('input');
+  cumCB.type = 'checkbox';
+  cumCB.value = '__cum';
+  cumCB.checked = state.monthCumulative;
+  cumCB.addEventListener('change', async () => {
+    state.monthCumulative = cumCB.checked;
+    if (cumCB.checked) {
+      state.months.clear();
+      monthPanel.querySelectorAll('input[type="checkbox"]').forEach(cb => { if (cb !== cumCB) cb.checked = false; });
+    }
+    await refreshDataForCurrentSelection(true);
+  });
+  const cumSpan = document.createElement('span');
+  cumSpan.textContent = 'Cumulative';
+  cumRow.appendChild(cumCB);
+  cumRow.appendChild(cumSpan);
+  monthPanel.appendChild(cumRow);
+
+  for (const month of MONTHS) {
+    const row = document.createElement('label');
+    row.className = 'check';
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.value = month.value;
+    cb.checked = state.months.has(month.value) && !state.monthCumulative;
+    cb.addEventListener('change', async () => {
+      if (cumCB.checked) {
+        cumCB.checked = false;
+        state.monthCumulative = false;
+      }
+      if (cb.checked) state.months.add(month.value);
+      else state.months.delete(month.value);
+      await refreshDataForCurrentSelection(true);
+    });
+    const span = document.createElement('span');
+    span.textContent = month.label;
+    row.appendChild(cb);
+    row.appendChild(span);
+    monthPanel.appendChild(row);
+  }
+  updateMonthBtnLabel();
+}
+async function refreshDataForCurrentSelection(keepFocus = true) {
+  const previousFocus = keepFocus ? HUB_ID : '';
+  await loadSelectedFlows();
+  if (keepFocus) HUB_ID = previousFocus;
+  state.filters.clear();
+  renderChips();
+  rebuildAggregates();
+  updateMonthBtnLabel();
+  render();
+}
+monthBtn.addEventListener('click', e => {
+  e.stopPropagation();
+  monthMulti.classList.toggle('open');
+  monthBtn.setAttribute('aria-expanded', monthMulti.classList.contains('open') ? 'true' : 'false');
+});
+document.addEventListener('click', e => {
+  if (!monthMulti.contains(e.target)) {
+    monthMulti.classList.remove('open');
+    monthBtn.setAttribute('aria-expanded', 'false');
+  }
+});
 
 function aggregateFlows() {
   const acc = new Map();
@@ -299,10 +412,10 @@ function computeTotals(flows) {
   return totals;
 }
 function rebuildAggregates() {
-  buildFocusOptions();
   FLOWS = aggregateFlows();
   FLOWS_X = FLOWS.map(addCoords).filter(Boolean);
   TOTALS = computeTotals(FLOWS);
+  buildFocusOptions();
   const focusFlows = FLOWS.filter(f => f.source === HUB_ID || f.target === HUB_ID);
   const counts = focusFlows.map(f => +f.count || 0);
   FLOW_MIN = counts.length ? Math.min(...counts) : 0;
@@ -320,9 +433,7 @@ function filterByMode(f) {
 }
 function filterBySearch(f) {
   if (state.filters.size === 0) return true;
-  for (const name of state.filters) {
-    if (f.source === name || f.target === name) return true;
-  }
+  for (const name of state.filters) if (f.source === name || f.target === name) return true;
   return false;
 }
 function nonFocusGroups(f) {
@@ -447,7 +558,8 @@ function nodeTooltipHTML(obj) {
   const logo = obj.logo ? `<img class='tt-logo' alt='' src='${obj.logo}'/>` : '';
   return `<div class='tt-header'>${logo}<div class='tt-title'>${obj.id}</div></div>
           <div class='tt-stat'>Received: ${t.in.toLocaleString()}</div>
-          <div class='tt-stat'>Loaned: ${t.out.toLocaleString()}</div>`;
+          <div class='tt-stat'>Loaned: ${t.out.toLocaleString()}</div>
+          <div class='tt-stat'>Data: ${CURRENT_DATASET_LABEL}</div>`;
 }
 function makeLayers(ts = 0, zoom = 6) {
   const dyn = flowDynamics(zoom);
@@ -495,6 +607,7 @@ function makeLayers(ts = 0, zoom = 6) {
       onClick: info => {
         const p = info.object;
         if (!p) return;
+        if (p.id === HUB_ID) return;
         state.filters.add(p.id);
         renderChips();
         render();
@@ -549,7 +662,7 @@ function renderChips() {
 function addFilterFromValue(val) {
   const key = val.toLowerCase();
   const p = byId[key];
-  if (p) {
+  if (p && p.id !== HUB_ID) {
     state.filters.add(p.id);
     renderChips();
     render();
@@ -644,13 +757,15 @@ focusLocationSel.addEventListener('change', () => {
   nodesDirty = true;
   render();
 });
-resetBtn.addEventListener('click', () => {
-  state = { ...state, mode: 'all', filters: new Set(), groups: new Set() };
+resetBtn.addEventListener('click', async () => {
+  state = { ...state, mode: 'all', filters: new Set(), groups: new Set(), months: new Set(), monthCumulative: true };
   renderChips();
+  buildMonthsPanel();
   groupPanel.querySelectorAll('input[type="checkbox"]').forEach(c => c.checked = false);
   updateGroupBtnLabel();
   const radioAll = document.querySelector('input[name="mode"][value="all"]');
   if (radioAll) radioAll.checked = true;
+  await refreshDataForCurrentSelection(false);
   map.flyTo({ center: [-85.4, 44], zoom: 6.5, pitch: 40, speed: 0.8 });
   nodesDirty = true;
   render();
@@ -666,12 +781,11 @@ document.querySelectorAll('.ui .ui-min').forEach(btn => {
 });
 
 datasetSel.addEventListener('change', async () => {
-  state.datasetFile = datasetSel.value;
-  await loadFlowsFromCSV(state.datasetFile);
-  state.filters.clear();
-  renderChips();
-  rebuildAggregates();
-  render();
+  state.selectedYear = datasetSel.value;
+  state.monthCumulative = true;
+  state.months.clear();
+  buildMonthsPanel();
+  await refreshDataForCurrentSelection(false);
 });
 
 function animate(ts) {
@@ -680,17 +794,10 @@ function animate(ts) {
 }
 
 const dataReady = (async () => {
-  for (const file of CSV_FILES) {
-    const existing = Array.from(datasetSel.options).some(o => o.value === file.value);
-    if (!existing) {
-      const opt = document.createElement('option');
-      opt.value = file.value;
-      opt.textContent = file.label;
-      datasetSel.appendChild(opt);
-    }
-  }
+  buildYearOptions();
+  buildMonthsPanel();
   await loadLocations();
-  await loadFlowsFromCSV(state.datasetFile);
+  await loadSelectedFlows();
   rebuildAggregates();
 })();
 

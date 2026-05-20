@@ -20,13 +20,17 @@
             <button class="ui-min" type="button" aria-pressed="false" title="Minimize panel">–</button>
             <h3>MeL Map</h3>
             <div class="field">
-               <label for="datasetSel">Month</label>
+               <label for="datasetSel">Year</label>
                <select id="datasetSel">
-                  <option value="01-2026.csv" selected>January 2026</option>
-                  <option value="02-2026.csv">February 2026</option>
-                  <option value="03-2026.csv">March 2026</option>
-                  <option value="04-2026.csv">April 2026</option>
+                  <option value="2026" selected>2026</option>
                </select>
+            </div>
+            <div class="field">
+               <label>Months</label>
+               <div id="monthMulti" class="multiselect">
+                  <button id="monthBtn" type="button" aria-haspopup="listbox" aria-expanded="false">Cumulative</button>
+                  <div id="monthPanel" class="panel" role="listbox" aria-multiselectable="true"></div>
+               </div>
             </div>
             <div class="radio-row" id="modeRadios" aria-label="Direction mode">
                <label><input type="radio" name="mode" value="all" checked> All</label>
@@ -51,7 +55,7 @@
          <div class="ui ui-right">
             <button class="ui-min" type="button" aria-pressed="false" title="Minimize panel">–</button>
             <div class="field">
-               <label for="focusLocationSel">Focus location</label>
+               <label for="focusLocationSel">Target location</label>
                <select id="focusLocationSel"></select>
             </div>
             <div class="field">
