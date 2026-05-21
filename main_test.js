@@ -2,7 +2,7 @@ const EMBED = /[?&](embed|embedded)=1/i.test(location.search);
 if (EMBED) document.documentElement.classList.add('embed');
 
 const DATA_URLS = { locations: 'mapdata/locations.json' };
-const YEARS = ['2026','2025'];
+const YEARS = ['2026','2025','2024','2023','2022'];
 const MONTHS = [
   { value: '01', label: 'January' },
   { value: '02', label: 'February' },
