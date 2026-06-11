@@ -435,3 +435,32 @@ html.embed .ui-right {
 .logo-img:hover {
 	filter: brightness(70%);
 }
+
+
+.street-row {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	font-size: 12px;
+	margin-top: 6px;
+}
+
+.street-row label {
+	color: #eee;
+	cursor: pointer;
+}
+
+.street-row input {
+	width: 16px;
+	height: 16px;
+	vertical-align: middle;
+}
+
+html.embed .street-row {
+	font-size: 11px;
+}
+
+.street-mode-btn.active {
+	background: #00274C;
+	border-color: rgba(255,255,255,.32);
+}

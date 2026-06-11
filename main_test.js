@@ -38,7 +38,8 @@ let state = {
   groups: new Set(),
   selectedYear: '2026',
   months: new Set(),
-  monthCumulative: true
+  monthCumulative: true,
+  streetMode: false
 };
 
 function lerp(a, b, t) { return a * (1 - t) + b * t; }
@@ -122,6 +123,15 @@ let nodesLayer = null;
 let nodesDirty = true;
 let hoveredNodeId = null;
 let hoveredFlowKey = null;
+const STREET_LOOP = 1400;
+const STREET_TRAIL = 240;
+const STREET_ROUTE_LIMIT = 80;
+const STREET_ROUTE_CONCURRENCY = 4;
+const STREET_ROUTE_STORAGE_PREFIX = 'melmap_street_route_v1:';
+const streetRouteCache = new Map();
+const streetRouteQueue = [];
+const streetRouteQueued = new Set();
+let streetRouteActive = 0;
 
 const datasetSel = document.getElementById('datasetSel');
 const monthMulti = document.getElementById('monthMulti');
@@ -136,6 +146,7 @@ const groupMulti = document.getElementById('groupMulti');
 const groupBtn = document.getElementById('groupBtn');
 const groupPanel = document.getElementById('groupPanel');
 const radios = document.querySelectorAll('input[name="mode"]');
+const streetModeToggle = document.getElementById('streetModeToggle');
 
 const RECT_SVG = encodeURIComponent(`<svg xmlns='http://www.w3.org/2000/svg' width='20' height='6' viewBox='0 0 20 6'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='0'><stop offset='0' stop-color='white' stop-opacity='0'/><stop offset='1' stop-color='white' stop-opacity='1'/></linearGradient></defs><rect x='0' y='0' width='20' height='6' fill='url(#g)'/></svg>`);
 const RECT_ATLAS = `data:image/svg+xml;charset=utf-8,${RECT_SVG}`;
@@ -529,6 +540,135 @@ function fadeAlphaFor(uRaw, halfFrac, fadeLenFrac) {
   const fl = Math.max(eps, fadeLenFrac);
   return clamp01((uRaw / fl)) * clamp01(((1 - halfFrac) - uRaw) / fl);
 }
+
+function routeCacheKey(flow) {
+  const coords = [flow.sourceLon, flow.sourceLat, flow.targetLon, flow.targetLat].map(v => Number(v).toFixed(5)).join(',');
+  return `${flow.source}->${flow.target}|${coords}`;
+}
+function fallbackRoutePath(flow) {
+  return [[flow.sourceLon, flow.sourceLat], [flow.targetLon, flow.targetLat]];
+}
+function getStoredRoute(key) {
+  try {
+    const raw = localStorage.getItem(STREET_ROUTE_STORAGE_PREFIX + key);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) && parsed.length >= 2 ? parsed : null;
+  } catch (_) {
+    return null;
+  }
+}
+function storeRoute(key, path) {
+  try {
+    localStorage.setItem(STREET_ROUTE_STORAGE_PREFIX + key, JSON.stringify(path));
+  } catch (_) {}
+}
+function getRoutePathForFlow(flow) {
+  const key = routeCacheKey(flow);
+  if (streetRouteCache.has(key)) return streetRouteCache.get(key);
+  const stored = getStoredRoute(key);
+  if (stored) {
+    streetRouteCache.set(key, stored);
+    return stored;
+  }
+  return fallbackRoutePath(flow);
+}
+function routeUrlForFlow(flow) {
+  const from = `${flow.sourceLon},${flow.sourceLat}`;
+  const to = `${flow.targetLon},${flow.targetLat}`;
+  return `https://api.mapbox.com/directions/v5/mapbox/driving/${from};${to}?alternatives=false&geometries=geojson&overview=full&steps=false&access_token=${encodeURIComponent(mapboxgl.accessToken)}`;
+}
+function scheduleStreetRoute(flow) {
+  if (!state.streetMode) return;
+  const key = routeCacheKey(flow);
+  if (streetRouteCache.has(key) || streetRouteQueued.has(key)) return;
+  const stored = getStoredRoute(key);
+  if (stored) {
+    streetRouteCache.set(key, stored);
+    return;
+  }
+  streetRouteQueued.add(key);
+  streetRouteQueue.push({ key, flow });
+  pumpStreetRouteQueue();
+}
+function pumpStreetRouteQueue() {
+  while (streetRouteActive < STREET_ROUTE_CONCURRENCY && streetRouteQueue.length) {
+    const job = streetRouteQueue.shift();
+    streetRouteActive++;
+    fetch(routeUrlForFlow(job.flow), { cache: 'force-cache' })
+      .then(r => r.ok ? r.json() : null)
+      .then(data => {
+        const coords = data?.routes?.[0]?.geometry?.coordinates;
+        if (Array.isArray(coords) && coords.length >= 2) {
+          streetRouteCache.set(job.key, coords);
+          storeRoute(job.key, coords);
+        } else {
+          streetRouteCache.set(job.key, fallbackRoutePath(job.flow));
+        }
+      })
+      .catch(() => { streetRouteCache.set(job.key, fallbackRoutePath(job.flow)); })
+      .finally(() => {
+        streetRouteActive--;
+        streetRouteQueued.delete(job.key);
+        render();
+        pumpStreetRouteQueue();
+      });
+  }
+}
+function routeDistanceWeight(path) {
+  let total = 0;
+  for (let i = 1; i < path.length; i++) {
+    const a = path[i - 1], b = path[i];
+    total += Math.hypot((b[0] - a[0]) * 85, (b[1] - a[1]) * 111);
+  }
+  return Math.max(total, 1);
+}
+function timestampsForPath(path) {
+  if (!path || path.length < 2) return [0, STREET_LOOP];
+  const weights = [0];
+  let total = 0;
+  for (let i = 1; i < path.length; i++) {
+    const a = path[i - 1], b = path[i];
+    total += Math.hypot((b[0] - a[0]) * 85, (b[1] - a[1]) * 111);
+    weights.push(total);
+  }
+  if (!total) return path.map((_, i) => i ? STREET_LOOP : 0);
+  return weights.map(v => (v / total) * STREET_LOOP);
+}
+function visibleFilteredFlows() {
+  let flows = filterFlows();
+  try {
+    const b = map.getBounds();
+    flows = flows.filter(f => b.contains([f.sourceLon, f.sourceLat]) || b.contains([f.targetLon, f.targetLat]));
+  } catch (_) {}
+  return flows;
+}
+function streetTripData(ts = 0, dyn = null) {
+  const flows = visibleFilteredFlows();
+  const candidates = flows.slice(0, STREET_ROUTE_LIMIT);
+  for (const flow of candidates) scheduleStreetRoute(flow);
+  const pulse = pulseAmount(ts);
+  return flows.map(flow => {
+    const path = getRoutePathForFlow(flow);
+    const baseAlpha = 210;
+    let color = colorByNonFocus(flow, baseAlpha);
+    if (shouldPulseFlow(flow)) color = blendTowardWhite(color, pulse);
+    const dynProps = dyn || flowDynamics(map.getZoom());
+    return {
+      id: flowKey(flow),
+      flow,
+      path,
+      timestamps: timestampsForPath(path),
+      color,
+      width: Math.max(2, Math.min(18, flowSizePx(dynProps.basePx, flow.count) * 0.55)),
+      distanceWeight: routeDistanceWeight(path)
+    };
+  });
+}
+function streetCurrentTime(ts) {
+  return (ts / 12) % STREET_LOOP;
+}
+
 function computeTrailData(ts = 0, respectFilters = false, dyn = null) {
   let flows = respectFilters ? filterFlows() : FLOWS_X;
   if (respectFilters) {
@@ -600,10 +740,28 @@ function nodeTooltipHTML(obj) {
 }
 function makeLayers(ts = 0, zoom = 6) {
   const dyn = flowDynamics(zoom);
-  const rectsData = computeTrailData(ts, true, dyn);
-  const rects = new deck.IconLayer({
+  const flowLayer = state.streetMode ? new deck.TripsLayer({
+    id: 'street-trips',
+    data: streetTripData(ts, dyn),
+    pickable: true,
+    getPath: d => d.path,
+    getTimestamps: d => d.timestamps,
+    getColor: d => d.color,
+    getWidth: d => d.width,
+    widthMinPixels: 2,
+    widthMaxPixels: 18,
+    rounded: true,
+    jointRounded: true,
+    capRounded: true,
+    fadeTrail: true,
+    trailLength: STREET_TRAIL,
+    currentTime: streetCurrentTime(ts),
+    onHover: info => { hoveredFlowKey = info.object ? info.object.id : null; },
+    parameters: { depthTest: false },
+    updateTriggers: { getPath: [HUB_ID, state.selectedYear, Array.from(state.months).join(','), state.monthCumulative], getColor: ts, getWidth: [zoom, FLOW_MIN, FLOW_MAX] }
+  }) : new deck.IconLayer({
     id: 'flows-rects',
-    data: rectsData,
+    data: computeTrailData(ts, true, dyn),
     pickable: true,
     iconAtlas: RECT_ATLAS,
     iconMapping: RECT_MAP,
@@ -653,7 +811,7 @@ function makeLayers(ts = 0, zoom = 6) {
     });
     nodesDirty = false;
   }
-  return [rects, nodesLayer];
+  return [flowLayer, nodesLayer];
 }
 function render(ts = 0) {
   if (!overlay) return;
@@ -661,7 +819,7 @@ function render(ts = 0) {
     layers: makeLayers(ts, map.getZoom()),
     getTooltip: ({ layer, object }) => {
       if (!object) return null;
-      if (layer && layer.id === 'flows-rects') {
+      if (layer && (layer.id === 'flows-rects' || layer.id === 'street-trips')) {
         const f = object.flow;
         const other = (f.source === HUB_ID) ? byId[f.target.toLowerCase()] : byId[f.source.toLowerCase()];
         return other ? { html: nodeTooltipHTML(other) } : null;
@@ -786,6 +944,15 @@ radios.forEach(r => r.addEventListener('change', () => {
   state.mode = selected ? selected.value : 'all';
   render();
 }));
+if (streetModeToggle) {
+  streetModeToggle.addEventListener('click', () => {
+    state.streetMode = !state.streetMode;
+    streetModeToggle.classList.toggle('active', state.streetMode);
+    streetModeToggle.setAttribute('aria-pressed', state.streetMode ? 'true' : 'false');
+    hoveredFlowKey = null;
+    render();
+  });
+}
 focusLocationSel.addEventListener('change', () => {
   HUB_ID = focusLocationSel.value;
   state.filters.clear();
@@ -795,11 +962,12 @@ focusLocationSel.addEventListener('change', () => {
   render();
 });
 resetBtn.addEventListener('click', async () => {
-  state = { ...state, mode: 'all', filters: new Set(), groups: new Set(), months: new Set(), monthCumulative: true };
+  state = { ...state, mode: 'all', filters: new Set(), groups: new Set(), months: new Set(), monthCumulative: true, streetMode: false };
   renderChips();
   buildMonthsPanel();
   groupPanel.querySelectorAll('input[type="checkbox"]').forEach(c => c.checked = false);
   updateGroupBtnLabel();
+  if (streetModeToggle) { streetModeToggle.classList.remove('active'); streetModeToggle.setAttribute('aria-pressed', 'false'); }
   const radioAll = document.querySelector('input[name="mode"][value="all"]');
   if (radioAll) radioAll.checked = true;
   await refreshDataForCurrentSelection(false);
