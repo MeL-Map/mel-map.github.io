@@ -1,7 +1,7 @@
 {
-  "name": "Your Application Name",
-  "short_name": "App",
-  "description": "Application description",
+  "name": "MeL Map",
+  "short_name": "MeL Map",
+  "description": "This interactive map tracks the circulation of materials across Michigan libraries through MeLCat.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
