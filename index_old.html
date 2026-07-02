@@ -3,7 +3,7 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>MeL Map</title>
+      <title>MeL Map: Wayne State University</title>
       <link rel="icon" type="image/x-icon" href="images/favicon.svg">
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,7 +11,7 @@
       <link href="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.css" rel="stylesheet">
       <script src="https://api.mapbox.com/mapbox-gl-js/v3.15.0/mapbox-gl.js"></script>
       <script src="https://unpkg.com/deck.gl@8.9.33/dist.min.js"></script>
-      <script src="main_test.js" defer></script>
+      <script src="main_old.js" defer></script>
       <link rel="stylesheet" href="style.css">
    </head>
    <body>
@@ -22,11 +22,14 @@
             <div class="field">
                <label for="datasetSel">Year</label>
                <select id="datasetSel">
-                  <option value="2026" selected>2026</option>
-                  <option value="2025" selected>2025</option>
-                  <option value="2024" selected>2024</option>
-                  <option value="2023" selected>2023</option>
-                  <option value="2022" selected>2022</option>
+                  <option value="20 Years of MeLCat - 2006-2025" selected>20 Years of MeLCat: 2006-2025</option>
+                  <option value="2026">2026</option>
+                  <option value="2025">2025</option>
+                  <option value="2024">2024</option>
+                  <option value="2023">2023</option>
+                  <option value="2022">2022</option>
+                  <option value="2021">2021</option>
+                  <option value="2020">2020</option>
                </select>
             </div>
             <div class="field">
@@ -58,10 +61,6 @@
          </div>
          <div class="ui ui-right">
             <button class="ui-min" type="button" aria-pressed="false" title="Minimize panel">–</button>
-            <div class="field">
-               <label for="focusLocationSel">Target library</label>
-               <select id="focusLocationSel"></select>
-            </div>
             <div class="field">
                <label for="searchCity">Filter locations</label>
                <input type="search" id="searchCity" placeholder="Search locations..." list="cityList">
